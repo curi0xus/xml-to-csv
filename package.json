@@ -1,0 +1,18 @@
+{
+  "name": "xmlTOcsv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "csv-writer": "^1.2.0",
+    "json-2-csv": "^2.2.1",
+    "xml2csv": "^1.0.1",
+    "xml2js": "^0.4.19"
+  }
+}

@@ -1,0 +1,682 @@
+Order Number,Order Date,Order Status,Extra Message,Order Total,Customer Name,Customer Email,Shipping Address Index
+4179,2017-09-29 03:56:07,wc-cancelled,,162.00,C L,cheryl@com3.com.sg,        
+4220,2017-09-29 09:47:01,wc-cancelled,,65.00,Johannes See,johannes@com3.com.sg,        
+4301,2017-09-30 18:45:02,wc-cancelled,,240.00,vallence huang,thearmousg@gmail.com,        
+4352,2017-10-03 08:20:20,wc-processing,,120.00,Su-Lyn Koh,sulyn@ate.bz,Su-Lyn Koh Ate 8 Cambridge Road  Singapore  219684 SG
+4353,2017-10-03 08:26:49,wc-processing,,120.00,Celine Tan,celine@ate.bz,Celine Tan Ate Integrated Communications Pte Ltd 11 Upper Circular Road Level 4 Singapore  058509 SG
+4354,2017-10-03 08:44:25,wc-cancelled,,160.00,Adriel Tjokrosaputro,a.tjokrosaputro@gmail.com,Adriel Tjokrosaputro  261 River Valley Road #05-16 Singapore  238307 SG
+4356,2017-10-03 11:26:15,wc-cancelled,,160.00,Adriel Tjokrosaputro,a.tjokrosaputro@gmail.com,Adriel Tjokrosaputro  261 River Valley Road 05-16 Singapore  238307 SG
+4362,2017-10-04 02:23:02,wc-processing,,480.00,Su-Lyn Tan,sulyn@ate.bz,Su-Lyn Tan The Ate Group 8 Cambridge Road  Singapore  219684 SG
+4363,2017-10-04 02:27:52,wc-processing,,220.00,Celine Tan,celine@ate.bz,Celine Tan The Ate Group 11 Upper Circular Road Level 3 and 4 Singapore  059408 SG
+4364,2017-10-04 04:38:56,wc-cancelled,,160.00,Adriel Tjokrosaputro,a.tjokrosaputro@gmail.com,Adriel Tjokrosaputro  261 River Valley Road #05-16 Singapore  238307 SG
+4630,2017-10-13 11:51:32,wc-cancelled,,120.00,Adriel Tjokrosaputro,a.tjokrosaputro@gmail.com,Adriel Tjokrosaputro  261 River Valley Road 05-16 singapore  238307 SG
+4669,2017-10-24 11:31:59,wc-cancelled,,102.00,Juliana Chang,juchang02@gmail.com,Juliana Chang  391A Orchard Road Ngee Ann City Tower A #16-00 Singapore  238873 SG
+4859,2017-11-28 20:04:25,wc-cancelled,"special note as a gift: Congratulations on the birth of Elric and hope you'll like these! Enjoy! Blessings, Valerie &amp; Christian",80.00,Valerie Toh,valerie.tohyl@gmail.com,Elaine Woo  7R Jalan Haji Salam  singapore  468848 SG
+4884,2017-12-05 16:00:48,wc-cancelled,,140.00,Shandy Lui,shandy.lui!@gmail.com,Shandy Lui  Blk 687C Woodlands Drive 75 #08-59  Singapore  733687 SG
+4911,2017-12-12 03:02:44,wc-cancelled,,64.00,Lynn Chng,imyaxin@gmail.com,Lynn Chng  192 bishan st 13 04-499 Singapore  570192 SG
+4950,2017-12-18 08:14:15,wc-cancelled,,80.00,Janice Boon,janice_boon@hotmail.com,Janice Boon  Blk 287D Jurong East st 21 #10-310 Singapore  604287 SG
+4981,2017-12-31 14:42:31,wc-cancelled,Please deliver by 4 Jan 2018,237.00,Christine Ko,sableko@yahoocom.sg,Margrate Cheong  Blk 366 Yishun Ring Road #09-1506 Singapore  760366 SG
+5035,2018-01-31 23:47:37,wc-cancelled,Please send during Monday - Friday during office hours . As this address is office address .,145.00,Chua Alice,aasung@singnetcom.sg,Chua Alice  Blk 4010 Ang Mo Kio Ave 10 Techplace 1 #05-10 Singapore  569626 SG
+5107,2018-02-05 10:03:08,wc-pending,"Just to check with you, can I do self collection as I need the gifts urgently.",,undefined undefined,,
+5184,2018-08-13 22:55:43,wc-cancelled,,205.00,Jaclyn Chow,jaccies@gmail.com,Jaclyn Chow  656 Jalan tenaga #08-104 Singapore  410653 SG
+4365,2017-10-04 07:53:58,wc-processing,,100.00,Su-Lyn Tan,sulyn@ate.bz,Su-Lyn Tan The Ate Group 8 Cambridge Road  Singapore  219684 SG
+4366,2017-10-04 08:19:49,wc-processing,,180.00,Su-Lyn Tan,sulyn@ate.bz,Su-Lyn Tan The Ate Group 8 Cambridge Road  Singapore  219684 SG
+4368,2017-10-04 08:39:22,wc-processing,,42.00,Mongchin Yeoh,mongchin-@hotmail.com,Mongchin Yeoh Mongabong 41a bedok ria crescent #02-45  Singapore  Singapore SG
+4369,2017-10-04 08:43:32,wc-processing,,21.00,Amanda Tan,manda.txf@hotmail.com,Amanda Tan  Pasir Ris Street 21 Blk 210 #08-322 Singapore  SINGAPORE 510210 SG
+4370,2017-10-04 09:09:42,wc-processing,,110.00,Charmaine Seah,eleventhour@gmail.com,Charmaine Seah Elementary Co 9 Mimosa Road  Singapore  807976 SG
+4371,2017-10-04 09:19:22,wc-processing,,100.00,Celine Tan,celine@ate.bz,Celine Tan The Ate Group 11 Upper Circular Road Level 3 and 4 Singapore  059408 SG
+4372,2017-10-04 09:20:36,wc-processing,,60.00,Shumin Liang,shuminliang@gmail.com,Shumin Liang  Block 9 Boon Keng Road 37-164 Singapore  330009 SG
+4373,2017-10-04 16:03:03,wc-processing,"Cheer up! Xoxo, Lene",90.00,Charlene Ye,shariinye@gmail.com,Michelle Kong Secura Group Building 38 Alexandra Terrace  Singapore  119932 SG
+4374,2017-10-05 00:24:45,wc-processing,"for single boxes, possible to pack nicely? as i intend to give it as a birthday gift. thank you",220.00,Lynette Lin,linlynette@gmail.com,Lynette Lin  491 Yio Chu Kang Rd #03-05 Seasons Park Condo Singapore  787078 SG
+4375,2017-10-05 01:16:35,wc-processing,,160.00,Su-Lyn Tan,sulyn@ate.bz,Su-Lyn Tan The Ate Group 8 Cambridge Road  Singapore  219684 SG
+4376,2017-10-05 01:24:00,wc-processing,,120.00,Su-Lyn Tan,sulyn@ate.bz,Su-Lyn Tan The Ate Group 8 Cambridge Road  Singapore  219684 SG
+4377,2017-10-05 03:03:00,wc-processing,,408.00,Shirin Tang,shirin_tang@yahoo.com.sg,Shirin Tang Morrison & Foerster LLP 50 Collyer Quay #12-01 OUE Bayfront Singapore  049321 SG
+4378,2017-10-05 04:13:07,wc-processing,,52.00,Vera Lee,coralveralee@gmail.com,Vera Lee  95 Bukit Drive The Raintree Singapore  587843 SG
+4379,2017-10-05 08:17:15,wc-processing,,60.00,Clarissa Tan,clarissa.alexia.tan@gmail.com,Clarissa Tan  61 Thomson. Green  Singapore  574937 SG
+4391,2017-10-06 05:39:29,wc-processing,,120.00,Celine Tan,celine@ate.bz,"Celine Tan The Ate Group 23B Bristol Road, Hertford Mansion Level 3 Singapore  219848 SG"
+4392,2017-10-06 05:43:45,wc-processing,"Dear Eileen,
+
+Here's a little gift for you to nourish your body. Enjoy Motherhood!!
+
+Love,
+Isabella",70.00,Isabella Liew,isabella.liew@hotmail.com,Eileen Keng  3 Coldstream Avenue  Singapore  459588 SG
+4393,2017-10-06 10:10:23,wc-processing,,42.00,May Wong,maykay68@singnet.com.sh,May Wong  371 clement ave 4 05-290 Singapore  120371 SG
+4394,2017-10-06 10:20:55,wc-processing,,21.00,Caroline Cresswell,carolinecresswell@gmail.com,Caroline Cresswell  125 bukit merah view  Singapore  151125 SG
+4395,2017-10-06 13:11:55,wc-processing,,70.00,Geraldine Tan,geraldinetan18@gmail.com,Geraldine Tan  611 Clementi West St 1 #08-280  Singapore  120611 SG
+4396,2017-10-06 14:03:19,wc-processing,,150.00,Geraldine Tan,gtan@sinek.com.sg,Geraldine Tan  4 Mimosa Place  Singapore  805529 SG
+4398,2017-10-07 03:10:30,wc-processing,,300.00,Jill Sara,jillsara2004@yahoo.com,Jill Sara  15b Jon Sempadan  Singapore  457387 SG
+4399,2017-10-07 04:58:59,wc-processing,,60.00,Marissa Zhao,zhaoyunan94@gmail.com,Marissa Zhao  16 stirling road  Singapore  148957 SG
+4400,2017-10-07 05:17:41,wc-processing,,31.00,Jacqueline Tan,jacquelinetan89@gmail.com,Jacqueline Tan  16 Jalan Kemajuan  Singapore  326982 SG
+4401,2017-10-07 05:21:12,wc-processing,,84.00,Jacqueline Tan,jacquelinetan89@gmail.com,Jacqueline Tan  16 Jalan Kemajuan  Singapore  326982 SG
+4402,2017-10-07 06:27:01,wc-processing,,300.00,mingting poh,mingting.poh@gmail.com,mingting poh  19 jalan asuhan  singapore  299342 SG
+4403,2017-10-07 06:50:28,wc-processing,,42.00,Lynn Goh,yilynn@hotmail.com,Lynn Goh Taylor Vinters Via LLC 19 jalan asuhan  singapore  299342 SG
+4404,2017-10-07 08:23:46,wc-processing,,120.00,Magdeline Hor,6maghor9@gmail.com,Magdeline Hor Taylor Vinters Via LLC 220A Bedok Central  singapore  461220 SG
+4405,2017-10-07 11:04:33,wc-processing,,306.00,SASCHA LEONG,SASCHA.LEONG@GMAIL.COM,SASCHA LEONG  66 LORONG G TELOK KURAU #03-02 SINGAPORE  426248 SG
+4406,2017-10-07 14:47:46,wc-processing,,240.00,MargareT pomonti,margaret.m.koh@gmail.com,MargareT pomonti  69 Bukit way  Singapore  587766 SG
+4407,2017-10-07 15:31:17,wc-processing,"In case the receptionist is away, please call my mobile.",120.00,Junni Tan,hoping4happyaccidents@gmail.com,Junni Tan Allied Telesis Asia Pacific Pte Ltd 11 Tai Seng Link Lobby Singapore  534182 SG
+4476,2017-10-09 05:58:11,wc-processing,,240.00,Sascha Leong,sascha.leong@gmail.com,Sascha Leong  66 LORONG G TELOK KURAU #03-02 Singapore  426248 SG
+4477,2017-10-09 06:40:34,wc-processing,,300.00,Janice Wong,super.liaodian@gmail.com,Janice Wong  22 Nassim Hill #03-02 The Loft Singapore  258468 SG
+4511,2017-10-10 02:36:18,wc-processing,,60.00,Su-Lyn Tan,sulyn@ate.bz,Su-Lyn Tan The Ate Group 8 Cambridge Road  Singapore  219684 SG
+4512,2017-10-10 03:46:38,wc-processing,,147.00,MANDY LO,mandy_lse@yahoo.com.sg,MANDY LO  145 SERANGOON AVE 3 #12-08 THE SPRINGBLOOM SINGAPORE  556122 SG
+4513,2017-10-10 04:47:53,wc-processing,,84.00,Rachel Koh,rachel_koh@hotmail.com,Rachel Koh  3 Leedon Heights #03-04  Singapore  267951 SG
+4514,2017-10-10 09:42:28,wc-processing,,123.00,Elizabeth Tang,elj.tang@gmail.com,Elizabeth Tang Miss 92 Sunbird Circle S487302 Singapore  487302 SG
+4515,2017-10-10 09:55:46,wc-processing,,21.00,bay yong sheng,yong_yuan_heng@live.com,bay yong sheng  blk699B #13-53 Hougang Street 52  Singapore  532699 SG
+4516,2017-10-10 10:34:42,wc-processing,,60.00,LC Chong,babyduo@hotmail.com,LC Chong  655 senna road #11-272  Singapore  670655 SG
+4518,2017-10-11 07:13:03,wc-processing,,21.00,Theodore Woon,theodore.woon@ate.bz,Theodore Woon The Ate Group 11 Upper Circular Road #03-01  Singapore  058409 SG
+4620,2017-10-11 12:15:53,wc-processing,,63.00,Emily Chong,ecsy90@gmail.com,Emily Chong  Blk 458 Tampines St 42  Singapore  520458 SG
+4621,2017-10-11 12:29:58,wc-processing,Special gift for mum,120.00,Kaiyi Li,chocolatteapples@gmail.com,"Kaiyi Li Technique Marine Services 192 Pandan Loop, #07-26 Pantech Business Hub Singapore  128381 SG"
+4622,2017-10-12 09:51:37,wc-processing,,240.00,Keli Li,like_li_25@hotmail.com,"Keli Li  10 Lorong 27 Geylang, The Alcove #05-04 Singapore  388199 SG"
+4623,2017-10-12 10:28:46,wc-processing,,60.00,rena chew,rena.chew@hotmail.com,rena chew  blk 214 petit road #12-415  Singapore  670216 SG
+4624,2017-10-13 06:08:59,wc-processing,Please call 97531847 before delivery.,120.00,Yee San Teo,yanshanteo@yahoo.com,Lianna Seah  6 Woodleigh Close #08-14 Singapore  357902 SG
+4625,2017-10-13 09:03:13,wc-processing,,204.00,lina chua,linachua1910@gmail.com,lina chua  105 fidelio street  singapore  458473 SG
+4626,2017-10-13 09:25:47,wc-processing,,120.00,Yu Ying Hoe,yuying.hoe@gmail.com,Yu Ying Hoe  105 fidelio street  singapore  458473 SG
+4627,2017-10-13 10:12:53,wc-processing,,60.00,Lee Teng Ling,lee_tengling@hotmail.com,Lee Teng Ling  82 Mulberry Avenue  Singapore  348414 SG
+4628,2017-10-13 10:33:14,wc-processing,,60.00,Lee Teng Ling,lee_tengling@hotmail.com,Lee Teng Ling  82 Mulberry Avenue  Singapore  348414 SG
+4629,2017-10-13 11:45:22,wc-processing,,21.00,Gerrick Chua,gerrickchua1@gmail.com,Gerrick Chua  22 teban gardens rd  Singapore  600022 SG
+4631,2017-10-13 14:28:22,wc-processing,,120.00,Jane Hooy,janehooy@gmail.com,Jane Hooy  2 Leedon Heights 10-02 Singapore  266228 SG
+4632,2017-10-14 06:06:51,wc-processing,,81.00,yee ling ong,ylong@jcn.com.sg,yee ling ong  23 highgate crescent  singapore  598804 SG
+4633,2017-10-14 07:42:15,wc-processing,,120.00,seungjoo hwang,hwangseungjoo78@gmail.com,seungjoo hwang  28 cuscaden road 14-08 singapore  249723 SG
+4634,2017-10-14 07:45:33,wc-processing,,42.00,Dominic Khoo,dominickhoo@thewatchfund.com,Dominic Khoo  28 cuscaden road 14-08 singapore  249723 SG
+4635,2017-10-14 11:59:14,wc-processing,,120.00,Celine Tan,celine@ate.bz,"Celine Tan The Ate Group 23B Bristol Road, Hertford Mansion Level 3 Singapore  219848 SG"
+4639,2017-10-17 03:09:06,wc-processing,"Please assist to pack each box separately as they are for 2 people:
+Mr Ken Hong
+Mr Dylan Tung
+
+Thank you very much.",120.00,Ruby Chung,chung.rumin@gmail.com,"Dylan Tung Evolve Salon 177 River Valley Road, Liang Court Complex #02-09 Singapore  179030 SG"
+4640,2017-10-17 07:15:29,wc-processing,,193.00,rehan amarasuriya,rehan@bpdesilva.com,"rehan amarasuriya bp de silva 187 surrey road, rivervale  singapore  159150 SG"
+4641,2017-10-17 07:19:20,wc-processing,"Message:
+“Dearest Dawn,
+
+Our hearts are with you and your family in your time of both so much pain and love as you celebrate and mourn beautiful Ellie. Please take care and stay strong. ❤ Libby and Jo”
+",70.00,Joanne Sim,ladyj_musings@rocketmail.com,Dawn Wang  90 Punggol Drive (Riverparc Residence) #09-04 #09-04 Singapore  828794 SG
+4643,2017-10-17 10:42:05,wc-processing,,81.00,Hazel Koh,whitefluffyclouds@hotmail.com,Hazel Koh  123A Rivervale Drive #11-127 singapore  541123 SG
+4644,2017-10-17 12:20:40,wc-processing,"If no one is home, please leave outside door of #11-10 and SMS me. Thanks.",360.00,Joanne Ong,joanne.siyun.ong@gmail.com,Joanne Ong  11 Arnasalam Chetty Road #11-10 Singapore  239949 SG
+4645,2017-10-18 06:49:07,wc-processing,,240.00,Daniel Lim,limtzechow@gmail.com,Daniel Lim  31 kang choo bin walk  singapore  548252 SG
+4647,2017-10-19 05:43:35,wc-processing,,81.00,sylvie goh,sylvie0107@gmail.com,sylvie goh  77a lorong marican nil singapore  417272 SG
+4648,2017-10-19 10:57:10,wc-processing,,60.00,Jacqueline Cheng,jacjaq@hotmail.com,Jacqueline Cheng  Blk 121 Serangoon North Ave 1 #11-199  Singapore  550121 SG
+4650,2017-10-20 09:48:14,wc-processing,,120.00,Choon Jin Poh,cjpoh222@yahoo.com,Choon Jin Poh  19 jalan Asuhan  Singapore  299342 SG
+4651,2017-10-21 10:28:19,wc-processing,,21.00,Melanie Koh,mkoh87@gmail.com,Melanie Koh  27 Carlisle Road  Singapore  219653 SG
+4660,2017-10-22 04:24:40,wc-processing,,84.00,Ing Ing,inging1410@gmail.com,Ing Ing - 3 West Coast walk 18-08 unit Singapore  127140 SG
+4662,2017-10-23 06:44:53,wc-processing,,240.00,anne cher,anne.cher@gmail.com,anne cher  69 holland road holland mews singapore  258868 SG
+4663,2017-10-23 09:03:42,wc-processing,,70.00,Ee Fung Teo,teo.eefung@gmail.com,Ee Fung Teo  67 sunrise drive  Singapore  806570 SG
+4664,2017-10-23 10:58:33,wc-processing,,60.00,lip how wong,rockystone76@msn.com,lip how wong  176D Edgefield Plains #14-204  singapore  824176 SG
+4665,2017-10-24 01:53:43,wc-processing,"To include the note ""Happy Birthday Mummy!!!!""",120.00,Charmaine Lee,chars.inbox@gmail.com,Susanna Lee  2 Gateway Drive #19-03 Singapore  608533 SG
+4666,2017-10-24 03:42:12,wc-processing,,120.00,Stephanie Pang,sulinstephpang@gmail.com,Judy Goh  141 Serangoon North Ave 2 #07-10 Singapore  550141 SG
+4670,2017-10-24 12:57:10,wc-processing,,120.00,Juliana Chang,juchang02@gmail.com,Juliana Chang  391A Orchard Road Ngee Ann City Tower A #16-00 Singapore  238873 SG
+4671,2017-10-25 16:48:23,wc-processing,,300.00,Cristel Tan,cristeltan@icloud.com,Cristel Tan  14 Holland Grove Terrace  Singapore  278777 SG
+4672,2017-10-26 01:38:56,wc-processing,Please call before delivery,70.00,Kailing Tan,kailingemail@gmail.com,Kailing Tan  Blk 191 Bukit Batok West Ave 6 #12-43 Singapore  650191 SG
+4674,2017-10-27 18:16:01,wc-processing,,300.00,Serene Layanto,serenelayanto@yahoo.com,Serene Layanto Mrs 7 Watten Heights Singapore  287446 SG
+4675,2017-10-28 22:38:57,wc-processing,Via Ming Ting,180.00,Priscilla Chua,ptaxol@singnet.com.sg,"Priscilla Chua  1 Maritime Square (Lobby C), #11-25  Singapore  099253 SG"
+4676,2017-10-29 13:45:56,wc-processing,"Message :
+
+Dearest Sharon, Jamin &amp; Lucas
+Congratulations on the arrival of Baby Cora!
+Love
+Jessie, James &amp; Winnie",150.00,Winnie Chan,winnie@byndartisan.com,"Sharon Chong  53 Hume Avenue Parc Palais #08-03, S598751 Singapore  598751 SG"
+4677,2017-10-29 20:53:33,wc-processing,,180.00,Joanne Sim,ladyj_musings@rocketmail.com,Joanne Sim  9 Tua Kong Green  Singapore  455384 SG
+4678,2017-10-30 11:50:06,wc-processing,,120.00,Junni Tan,hoping4happyaccidents@gmail.com,Junni Tan Allied Telesis Asia Pacific Pte Ltd 11 Tai Seng Link Lobby Singapore  534182 SG
+4679,2017-10-30 22:28:48,wc-processing,,273.00,Elaine tan,elainetan@singpost.com,Elaine tan  97c upp thomson road 16-12  Singapore  574329 SG
+4701,2017-10-31 23:12:57,wc-processing,DELIVER by Friday 11am as I am out of office,70.00,Christabel Chee,emailchristabel@gmail.com,Christabel Chee  20 Toh guan road #03-00 Cj Korea express building Singapore  608839 SG
+4712,2017-11-02 00:06:01,wc-processing,,162.00,Amanda Wang,amanda_wanghx@yahoo.com.sg,Amanda Wang  Blk 269C Punggol Field #15-209 Singapore  823269 SG
+4713,2017-11-02 00:07:46,wc-processing,,180.00,Rachel Ling,ringuheiki@hotmail.com,Rachel Ling  120 Hillview Avenue #03-01 Kewalram Hillview Singapore  669594 SG
+4714,2017-11-02 00:09:09,wc-processing,,120.00,Alvina Ling,alvinaling@hotmail.com,Alvina Ling  18 Cantonment Close #29-61  Singapore  080018 SG
+4715,2017-11-02 00:19:26,wc-processing,,120.00,AMERLISE WONG,amerlisewong@live.com,AMERLISE WONG  BLK 310 WOODLANDS ST 31 #10-10  SINGAPORE  730310 SG
+4716,2017-11-02 00:40:05,wc-processing,pre-order/early bird,220.00,Debbie Lee,debbieleesm@gmail.com,Debbie Lee MOE Block 496C Tampines Street 43 #05-245 Singapore  526496 SG
+4717,2017-11-02 00:41:38,wc-processing,Could you please call to arrange for delivery date and time as I need to make sure someone is at home. Thanks!,464.00,Leng Leng Soh,lengleng.soh@mastercard.com,Leng Leng Soh  32 Dover Rise #16-03  Singapore  138686 SG
+4718,2017-11-02 06:33:35,wc-processing,,180.00,Zhixiong Lin,zhixiong.lin@gmail.com,"Zhixiong Lin  Block 202, Tampines Street 21, #07-1231, Singapore 520202  Singapore  520202 SG"
+4719,2017-11-02 08:09:21,wc-processing,Please deliver after 2pm. Thanks ;),120.00,Irene Tang,oltang@yahoo.com,Irene Tang  8 Cantonment Close #29-89 Singapore  081008 SG
+4720,2017-11-02 10:05:20,wc-processing,,240.00,Lynnette Low,low.lynnette@gmail.com,Lynnette Low  Blk 119 Tampines st 11 #12-176 Tampines court Singapore  521119 SG
+4721,2017-11-02 11:00:01,wc-processing,,141.00,Rachel Lum,splitchick@gmail.com,"Josephine Tan  115 Bedok Reservoir Road, #02-128  Singapore  470115 SG"
+4722,2017-11-02 11:28:10,wc-processing,,320.00,Ting Ting LU,ltt0829@gmail.com,Ting Ting LU  6 Kay Siang Road  Singapore  248924 SG
+4723,2017-11-02 17:18:19,wc-processing,,180.00,Woan Jean Ee,eewoanjean@gmail.com,Woan Jean Ee  39 Kew Walk  Singapore  466079 SG
+4724,2017-11-03 01:04:45,wc-processing,,100.00,Gary Goh,garygoh@outlook.sg,Gary Goh  239 Serangoon Avenue 2 #12-39 SINGAPORE  550239 SG
+4725,2017-11-03 10:21:21,wc-processing,"This is a gift. The recipient might not be at home and the item will likely be left at reception, so please pack to last for a few hours.
+
+Are you able to add a gift card or note that says:
+
+Dear Elaine and Edu,
+
+Congratulations! We're so excited for you and for your new journey! Can't wait!
+
+Love,
+Celine and Zul",100.00,Celine Asril,celineasril@gmail.com,Elaine A. S. E E Capital 8 Paterson Hill #16-01 Singapore  238567 SG
+4726,2017-11-03 10:28:34,wc-processing,"Can you please add a note to this delivery?
+
+Dear Mama,
+
+Here's a little something for you to add to your pre-wedding ""glow"" routine.
+
+Love,
+Lin, Ken and Wen",102.00,Celine Asril,celineasril@gmail.com,Sallie Quek  1 Youngberg Terrace #13-02 Singapore  357741 SG
+4727,2017-11-03 11:43:43,wc-processing,"Please call Hwee Cheng at 96565574 to arrange for delivery, preferably with a day advance notice",120.00,Winnie Chua,weiwei07@hotmail.com,Hwee Cheng Chua  63 Lor K Telok Kurau #04-04  Singapore  425673 SG
+4728,2017-11-03 12:28:36,wc-processing,"Can you ship on 14 Nov instead? Its our anniversary.
+
+Notes:
+
+Happy Wedding Anniversary",100.00,Flex New,summer.spire@gmail.com,Flex New Spireworks Pte Ltd 9 Kaki Bukit Road 2  singapore  417842 SG
+4729,2017-11-03 17:11:03,wc-processing,,120.00,Kirsten Hoon,kirst.hoon@gmail.com,Kirsten Hoon  571B Woodlands Ave 1 -#11-914  Singapore  732571 SG
+4730,2017-11-04 02:08:37,wc-processing,,102.00,Wendy tan,Wanxuan87@live.com,"Wendy Tan  1 north bridge road, #B1-03 High street centre Singapore  179094 SG"
+4731,2017-11-04 10:59:09,wc-processing,,100.00,Audrey Tan,s3hz@yahoo.com.sg,Audrey Tan  75 Jurong west central 3 #12-23  Singapore  648337 SG
+4732,2017-11-04 11:08:41,wc-processing,Please deliver during weekday (Mon-Fri) between 9am to 5pm. Appreciate if you can make a call to me before delivery.,100.00,Jocelyn Teo,jocelyn0549@hotmail.com,"Jocelyn Teo novita, 9 Koi Marketing Pte Ltd 8 Tagore Drive #04-00  Singapore  787624 SG"
+4733,2017-11-04 13:39:52,wc-processing,Call before delivery,70.00,Heidi Yeo,moddamn@yahoo.com,Heidi Yeo  Block 333 Ang Mo Kio Avenue 1 #06-1943 Singapore  560333 SG
+4734,2017-11-04 14:45:56,wc-processing,,100.00,Hui Juan Sim,sim_huijuan@hotmail.com,Hui Juan Sim  22 Lorong 108 Changi Road  Singapore  426412 SG
+4735,2017-11-04 16:17:52,wc-processing,"This is a gift for New Mummy. Appreciate it if you do not leave any prices on and please pack nicely, Thank you",220.00,Jaelle Ang,jaelleang@yahoo.com,Ervin and Jan Lim  45A Edgefield Plains #06-05 Waterbay Singapore  828710 SG
+4736,2017-11-04 16:29:11,wc-processing,With love from Jaelle Ang,120.00,Jaelle Ang,jaelleang@yahoo.com,Joanna Ng-Nizza  15 Ardmore Park #18-03 Singapore Singapore  259959 SG
+4737,2017-11-04 17:15:42,wc-processing,,123.00,Victoria Lim,limmayningvictoria@gmail.com,Victoria Lim - 30A Conway Grove  Singapore  558236 SG
+4738,2017-11-04 23:20:17,wc-processing,,220.00,Ying Shuang Wang,wangyingshuang@gmail.com,Ying Shuang Wang  9 Battery Road  Singapore  049910 SG
+4739,2017-11-05 12:22:41,wc-processing,,120.00,Angie Goh,anqi.goh@gmail.com,Angie Goh  Hougang Street 31 #14-85 Singapore  530375 SG
+4740,2017-11-05 17:34:47,wc-processing,Call before delivery,220.00,Jasyin Tan,jasyin90@gmail.com,Jasyin Tan  22 MILTONIA CLOSE The shaugnessy Singapore  768197 SG
+4741,2017-11-06 12:40:50,wc-processing,,102.00,Pamela Tan,pamsminimart@yahoo.com,Pamela Tan Enceinte pte ltd 15 Chatsworth Road  Singapore  249769 SG
+4742,2017-11-06 13:45:07,wc-processing,,180.00,Joanne Choy,starlit_rain@hotmail.com,Joanne Choy  Blk 306 Canberra Road 16-73  Singapore  750306 SG
+4743,2017-11-06 20:27:22,wc-processing,Please deliver during weekday ( Mon-Fri) between 10am - 5pm. Thanks,120.00,Jocelyn Teo,jocelyn0549@hotmail.com,"Jocelyn Teo novita, 9 Koi Marketing Pte Ltd 8 Tagore Drive #04-00  Singapore  787624 SG"
+4744,2017-11-06 22:10:39,wc-processing,,91.00,Wendi Koh,wendi_koh@hotmail.com,Wendi Koh  631 Ang mo kio Avenue 4 #05-940 Singapore  560631 SG
+4745,2017-11-07 14:15:28,wc-processing,,360.00,Jasyin Tan,jasyin90@gmail.com,Jasyin Tan  22 MILTONIA CLOSE The shaugnessy Singapore  768197 SG
+4746,2017-11-08 17:59:32,wc-processing,,240.00,Cherrin Loo,Clcycc@yahoo.com,Cherrin Loo  40 Bournemouth road  Singapore  436612 SG
+4747,2017-11-08 23:40:13,wc-processing,May I have the items to be delivered on 24 December 2017?,120.00,Zhi Jun Chang,changzhijun@gmail.com,Zhi Jun Chang  Blk 17 Beach Road #19-4711  Singapore  190017 SG
+4748,2017-11-09 10:02:15,wc-processing,,100.00,Charlene Liang,dancingrin@hotmail.com,Charlene Liang ZALORA 10 HOE CHIANG ROAD #18-01 KEPPEL TOWERS SINGAPORE  Singapore  089315 SG
+4749,2017-11-09 16:21:46,wc-processing,,444.00,Serene Layanto,serenelayanto@yahoo.com,Serene Layanto Mrs 7 Watten Heights Singapore  287446 SG
+4750,2017-11-10 14:40:37,wc-processing,,70.00,Yin Ling Fock,ylfock@yahoo.com,Yin Ling Fock  335 Bukit Timah Road 18-02 Singapore  259718 SG
+4752,2017-11-10 23:37:48,wc-processing,,240.00,Jack Liang,jack.lcm@gmail.com,Jack Liang  Blk 101 Ah Hood Road #23-04  Singapore  320101 SG
+4753,2017-11-10 23:59:31,wc-processing,Please delivery during working hours on weekdays.,70.00,Megawati Wijaya,megawatiwijaya@yahoo.com,Megawati Wijaya  96 Robinson Rd #13-03 SIF Building Singapore  161118 SG
+4754,2017-11-11 13:45:32,wc-processing,,100.00,Serene Chiam,xserenel@singnet.com,Serene Chiam  121 Bishan Street 12 #04-85 Singapore  570120 SG
+4755,2017-11-11 23:38:00,wc-processing,"Office hours only, about 12 to 2pm as office is closed thanks",102.00,Alli Teal,alli.sim@gmail.com,Alli Teal Mmerci Encore 541 Orchard Rd #04-00 Liat Towers Singapore  238881 SG
+4756,2017-11-12 22:16:54,wc-processing,Possible to deliver in the evenings please? Otherwise I’d like to deliver to another address. Thank you!,120.00,ChiewMei Lim,limchiewmei@gmail.com,ChiewMei Lim  Blk 543 06-190 Serangoon North Ave 3 Singapore  550543 SG
+4757,2017-11-13 12:32:52,wc-processing,,150.00,Johannes See,johannes@com3.com.sg,"Johannes See COM3 Singapore 30 Cecil Street, Prudential Tower 11-03 Singapore  049712 SG"
+4758,2017-11-13 17:19:52,wc-processing,,100.00,Joanne Sim,ladyj_musings@rocketmail.com,Joanne Sim  9 Tua Kong Green  Singapore  455384 SG
+4759,2017-11-13 23:55:19,wc-processing,,102.00,Yen Hong Lew,lewyenhong@hotmail.com,Yen Hong Lew  200 Jalan Eunos EuHabitat Tower 14#02-33 Eunos  419544 SG
+4760,2017-11-14 12:22:47,wc-processing,,102.00,KRISTEN LIM,huiyil@gmail.com,KRISTEN LIM  39 BEDOK RIA CRESCENT  SINGAPORE  489855 SG
+4761,2017-11-14 23:18:40,wc-processing,,120.00,Shirin Tang,shirin_tang@yahoo.com.sg,Shirin Tang Morrison & Foerster LLP 50 Collyer Quay #12-01 OUE Bayfront Singapore  049321 SG
+4762,2017-11-15 11:25:12,wc-processing,"TO: KEVIN
+GET WELL SOON! SPEEDY RECOVERY!
+FROM: DGF RO RPCM TEAM",141.00,KYAN TAN,kyan.tan@dhl.com,"KEVIN HO  412 UPPER EAST COAST ROAD, #03-12, EAST COAST RESIDENCES  SINGAPORE  466488 SG"
+4763,2017-11-15 14:46:44,wc-processing,,102.00,Mackie Tan,mackietan@gmail.com,Mackie Tan Procter & Gamble 11 North Buona Vista Drive The Metropolis #21-07 Singapore  138589 SG
+4764,2017-11-16 01:13:46,wc-processing,,120.00,Ping Theng Chan,pingtheng@yahoo.com,Ping Theng Chan  1 Wallich Street Guoco Tower (please deliver to office lobby)  Singapore  078881 SG
+4765,2017-11-16 12:42:37,wc-processing,,240.00,Hui Nan Lim,limhuinan@gmail.com,Hui Nan Lim  62 Waterloo Street #14-02 Singapore  187958 SG
+4766,2017-11-17 08:41:47,wc-processing,,300.00,Katherin Nusantara,kat.nusantara@gmail.com,Katherin Nusantara  127 Joo Chiat Place  Singapore  427856 SG
+4767,2017-11-17 15:46:02,wc-processing,"With a belated birthday greeting card: Hey Kim, Happy Belated Birthday! Hope this comes as a surprise for you :) Hope you will enjoy this and may the year ahead bring you great blessings and happiness. Much love from Charlotte &amp; Jerald.",52.00,Charlotte Phua,charlotte_phua@yahoo.com.sg,"Kim Peh  29 Arab St, Singapore Level 2 (2KG Nails) Singapore  199728 SG"
+4768,2017-11-17 16:13:28,wc-processing,Please deliver by Sunday 19th Nov before 12pm! Thank you!,70.00,Siew Lin Ng,s-iew@hotmail.com,Siew Lin Ng  678A Punggol Drive 08-808 Singapore  821678 SG
+4769,2017-11-18 10:13:55,wc-processing,Kindly call prior to delivery please. Thank you so very much!,260.00,Jasmine Teo,jasmine.teo10@gmail.com,Jasmine Teo  21 Siglap View  Singapore  455790 SG
+4770,2017-11-18 12:49:52,wc-processing,,240.00,Sabrina Joseph,joseph.sabrina@gmail.com,Sabrina Joseph  2 Ardmore park #09-04  Singapore  259947 SG
+4771,2017-11-18 13:10:49,wc-processing,Xmas gifts,360.00,Wei Lin Hoi,h_wei_lin@hotmail.com,Wei Lin Hoi  126 Bishan St 12 #04-155 Singapore  570126 SG
+4772,2017-11-19 22:51:27,wc-processing,,180.00,YC LI,ccarousel@hotmail.com,YC LI  Chai Chee Ave Blk 29a #08-82  Singapore  461029 SG
+4773,2017-11-20 14:43:41,wc-processing,Pls gift wrap each box. Thanks,180.00,Christina Lee,cristae78@gmail.com,Christina Lee  5 Siglap Road #07-44  Singapore  448908 SG
+4774,2017-11-20 15:33:31,wc-processing,"Please deliver between 9am-6pm to the lobby and call me on the day of delivery (day before if possible!) Sorry for the inconvenience, the gift is a surprise for family members so I can only have it sent to the office.",240.00,Joanne Lee,bitterjo@gmail.com,"Joanne Lee Standard Chartered Bank Standard Chartered Bank, CBP2 9 Changi Business Park Crescent Singapore  486005 SG"
+4775,2017-11-20 17:16:39,wc-processing,,73.00,Charissa Guan,charissaguan@gmail.com,Charissa Guan  77A Duxton Road Level 2 Singapore  089536 SG
+4776,2017-11-20 20:39:05,wc-processing,"Please ship by Wednesday 22 Nov as I will be bringing these for my trip on 23 Nov afternoon.
+Thank you.",162.00,Kim Geck Lim,kimgeck@gmail.com,Kim Geck Lim 1971 Blk 110 #08-17 Whampoa Road  Singapore  321110 SG
+4777,2017-11-21 10:00:18,wc-processing,Please do not include any pricing in delivery. This is a gift.,70.00,Angela Gray,angelaleowgray@gmail.com,"Wei wei Liew  The Seaview, 29 Amber Road #08-03 Singapore  439942 SG"
+4778,2017-11-21 10:46:15,wc-processing,,105.00,Serene Chiam,xserenel@singnet.com,Serene Chiam  121 Bishan Street 12 #04-85 Singapore  570120 SG
+4779,2017-11-21 11:15:17,wc-processing,,70.00,Geraldine Poh,geraldinepohxy@gmail.com,Geraldine Poh  Tampines central 7 Blk 515b #09-12  Singapore  522515 SG
+4780,2017-11-21 17:12:41,wc-processing,,280.00,Yin Ling Fock,ylfock@yahoo.com,Yin Ling Fock  335 Bukit Timah Road 18-02 Singapore  259718 SG
+4781,2017-11-21 18:32:38,wc-processing,,220.00,Irene Lee,izrac@live.com,Irene Lee  45 Jalan Tiga #12-36 Singapore  390045 SG
+4782,2017-11-21 23:46:12,wc-processing,,120.00,hui tee,hui_lin_tee@hotmail.com,Hui Lin tee  43 Jalan Leban  Singapore  576919 SG
+4783,2017-11-22 01:06:18,wc-processing,"It would be good, if you guys could drop me a text when delivering. So that I can make sure that someone is at home to receive. Thanks.",120.00,Long Zhen Sie,cloudx_candy89@hotmail.com,Long Zhen Sie - Blk 124 Pasir Ris st 11 #10-415  Singapore  510124 SG
+4784,2017-11-22 11:17:45,wc-processing,,220.00,Katherin Nusantara,kat.nusantara@gmail.com,Katherin Nusantara  127 Joo Chiat Place  Singapore  427856 SG
+4785,2017-11-22 15:27:06,wc-processing,,100.00,Deborah Tay,debstaytor@yahoo.com,Deborah Tay  57 Faber Park  Singapore  129129 SG
+4786,2017-11-23 09:25:25,wc-processing,Attn to Richard Ng,70.00,Yan Rui Lim,limyanrui@gmail.com,Yan Rui Lim  blk 243 yishun ring road #08-1163 Singapore  760243 SG
+4787,2017-11-23 12:45:32,wc-processing,,70.00,priscilla tan,tanprisca@gmail.com,"priscilla tan  79 Science Park Drive #06-08 Cintech IV, Science Park One singapore  118264 SG"
+4788,2017-11-23 16:14:01,wc-processing,,141.00,Serena Lin,serynalin@hotmail.com,Serena Lin  Blk 104 Lengkong Tiga #04-363 Singapore  410104 SG
+4789,2017-11-24 13:13:01,wc-processing,,600.00,Pearlyn Chua,pchua17@gmail.com,Pearlyn Chua  25 Merryn Road  Singapore  298473 SG
+4790,2017-11-24 14:57:16,wc-processing,,91.00,Trivinia Gan,impohgan@gmail.com,Trivinia Gan  7  Kandis Walk  757682 SG
+4791,2017-11-24 16:37:25,wc-processing,,100.00,cindy toh,uynix09@gmail.com,cindy toh  333A Anchorvale Link #12-342 Seng Kang  541333 SG
+4792,2017-11-24 20:00:30,wc-processing,"Personalized messages:
+
+Box 1:
+
+Dear Henri,
+
+Thank you for always pampering my tresses and Merry Xmas!
+
+XOXO Pearlin
+
+Box 2:
+
+Dear Andrea,
+
+Thank you for always pampering my tresses and Merry Xmas!
+
+XOXO Pearlin
+
+Box 3:
+
+Dear Eleanor,
+
+Thank you for always pampering my tresses and Merry Xmas!
+
+XOXO Pearlin
+",180.00,Pearlin Siow,pearlins@gmail.com,"Henri Leong CINQ Studio 6, Scotts Road, Scotts Square , #03-16 Singapore  228209 SG"
+4793,2017-11-24 22:28:40,wc-processing,Via Ming Ting,1131.00,Priscilla Chua,ptaxol@singnet.com.sg,"Priscilla Chua  1 Maritime Square (Lobby C), #11-25 Harbourfront Centre Singapore  099253 SG"
+4795,2017-11-25 08:59:13,wc-processing,"Hi there, I will be checking into Hotel Jen on Orchard Road today so I can email over my room number once I know it. I’ll be flying out Monday evening, will I be able to receive my order before then? Thank you!",70.00,James Casil,calif.trinh@gmail.com,Calif Trinh  277 Orchard Road  Singapore  238858 SG
+4796,2017-11-25 11:48:00,wc-processing,,240.00,Woan Jean Ee,eewoanjean@gmail.com,Woan Jean Ee  39 Kew Walk  Singapore  466079 SG
+4798,2017-11-25 13:54:44,wc-processing,,120.00,Steve Seah,steveseah88@gmail.com,Steve Seah  5D Chancery Hill Walk  Singapore  309619 SG
+4799,2017-11-25 14:57:22,wc-processing,,300.00,Callie Chua,calliechua@gmail.com,Callie Chua  21 Holland Hill road #04-06 Lush on holland hill Singapore  278737 SG
+4800,2017-11-25 18:18:05,wc-processing,Gift,240.00,Wei Wei Ong,weihii90@gmail.com,Wei Wei Ong  1 Gallop Walk  SIngapore  258930 SG
+4801,2017-11-26 04:32:09,wc-processing,,70.00,Jasmine Wong,whitedot@gmail.com,Jasmine Wong  14 Joan Road  Singapore  298892 SG
+4808,2017-11-26 13:39:53,wc-processing,Please let me know if this need to be kept in the fridge.,246.00,Lynn Wy,lynnwu.sy@gmail.com,Lynn Wy  19 Sengkang east Avenue Austville Residences #18-19 Singapore  544808 SG
+4844,2017-11-26 14:41:00,wc-processing,,408.00,Cheryl Lee,calee01@icloud.com,Cheryl Lee COM3 Singapore 30 Cecil Street #11-03 Prudential Tower Singapore  049712 SG
+4845,2017-11-26 20:34:22,wc-processing,Longer expiry date pls.,252.00,Huei-Xin Lou,hueixin@gmail.com,"Huei-Xin Lou  Blk 105, Spottiswoode Park Road #02-128  Singaporr  080105 SG"
+4846,2017-11-26 20:47:37,wc-processing,,180.00,Sarah Yuen,sarahang02@gmail.com,Sarah Yuen  58 Coronation Road  Singapore  269461 SG
+4847,2017-11-26 21:15:33,wc-processing,Entrance to 7d is directly behind the black corner salon shop.,91.00,Alicia Ong,ong.alicia@yahoo.com,Alicia Ong  7d Binjai Park  Singapore  589821 SG
+4848,2017-11-26 21:19:52,wc-processing,,123.00,Junie Seah,junieseah24@gmail.com,Junie Seah  Blk 569 Hougang Street 51 #02-91  Singapore  530569 SG
+4849,2017-11-26 22:46:48,wc-processing,Via Ming Ting,240.00,Priscilla Chua,ptaxol@singnet.com.sg,"Priscilla Chua  1 Maritime Square (Lobby C), #11-25 Harbourfront Centre Singapore  099253 SG"
+4856,2017-11-27 11:06:43,wc-processing,,474.00,Wendy Chng,anastasiawen@gmail.com,Wendy Chng  455C Ang Mo Kio Street 44 #29-35 Singapore  563455 SG
+4857,2017-11-27 19:54:31,wc-processing,,120.00,Sheena Lee,shimmering.snow@gmail.com,Sheena Lee NA 51 Upper Serangoon View Heron Bay #07-04 Singapore  534020 SG
+4858,2017-11-28 14:50:06,wc-processing,,120.00,Arissa Tan,kara.arissa@hotmail.co.uk,Arissa Tan  55 Oei Tiong Ham Park  Singapore  267060 SG
+4860,2017-11-28 23:01:37,wc-processing,,135.00,Alli Teal,alli.sim@gmail.com,Alli Teal Mmerci Encore 541 Orchard Rd #04-00 Liat Towers Singapore  238881 SG
+4861,2017-11-28 23:17:11,wc-processing,,37.00,Peilin Ho,raycheer82@gmail.com,Peilin Ho  Blk 518C Tampines Central 7 #17-52  Singapore  523518 SG
+4862,2017-11-29 12:43:05,wc-processing,,210.00,Wendy Yong,wendy.yong@ubs.com,"Wendy Yong  One Raffles Quay, #42-01, North Tower  Singapore  048583 SG"
+4863,2017-11-29 12:48:29,wc-processing,Please contact June at 9664 4591 (Merry Christmas),135.00,Wendy Yong,wendy.yong@ubs.com,"June Ong  309A ANG MO KIO ST 31, #26-345  Singapore  562309 SG"
+4864,2017-11-29 14:17:48,wc-processing,,156.00,JASMINE CHEW,jasmine.chew@gmail.com,JASMINE CHEW  149 rivervale crescent #05-50  SINGAPORE  540149 SG
+4865,2017-11-29 14:36:40,wc-processing,,165.00,Hwee Chin Lim,hcl2109@gmail.com,Hwee Chin Lim  239 Hougang St 22 12-09 Singapore  530239 SG
+4866,2017-11-30 00:45:42,wc-processing,Delivery between 10:30am till 8:30pm please,135.00,Shauna Woo,sean.wmz@gmail.com,"Shauna Woo Proof Living 2 Orchard Turn, ION Orchard #04-16 Singapore  238801 SG"
+4867,2017-11-30 09:36:18,wc-processing,special note as a gift: Congratulations on the new addition to your family again! Hope you'll like these :) Enjoy babe!,80.00,Valerie Toh,valerie.tohyl@gmail.com,Elaine Woo  7R Jalan Haji Salam  singapore  468848 SG
+4868,2017-11-30 18:58:17,wc-processing,,140.00,Lynette Seet,lynette.seet@gmail.com,"Lynette Seet  83, strathmore ave, #02-158  Singapore  141083 SG"
+4869,2017-11-30 21:01:37,wc-processing,,285.00,Vanessa Lim,vmay90@gmail.com,Vanessa Lim  7 Bedok Ria Terrace  Singapore  489732 SG
+4870,2017-12-01 12:02:46,wc-processing,"Dear Stephanie, Karen and Laura,
+
+Thank you for having us this year at Tatler. We always have a splendid time with you and your team and your warmest hospitality always make us feel part of the family.
+
+We wish you a Merry Christmas and a wonderful New Year!
+
+With love,
+Kevin Matthews &amp; Sabrina Ho",135.00,Sabrina Ho,sabrina@kslegalpartners.com,Stephanie Tay EDIPRESSE MEDIA SINGAPORE PTE LTD 14 Kung Chong Road #06-02 Lum Chang Building Singapore  159150 SG
+4871,2017-12-01 14:11:40,wc-processing,For immediate delivery. The items to be received latest by 3 December (11am).,305.00,Mei Ying Loh,lavender292@gmail.com,Mei Ying Loh  Block 275A Bishan Street 24 #29-122 Singapore  571275 SG
+4872,2017-12-01 16:29:44,wc-processing,,178.00,Pamela Tan,pamsminimart@yahoo.com,Pamela Tan  15 Chatsworth Road  Singapore  249769 SG
+4873,2017-12-02 17:29:37,wc-processing,,210.00,Katy Wang,katywang2013@gmail.con,"Katy Wang  62 leng kong tiga #11-05, starville Singapore  417455 SG"
+4874,2017-12-02 22:40:21,wc-processing,Pls call before delivery. Thks much. :),167.00,Pearlyn Lim,Pandapea@hotmail.com,Pearlyn Lim  187 Bishan St 13 #02-485  Singapore  570187 SG
+4875,2017-12-03 12:40:52,wc-processing,,151.00,Ing Ing,inging1410@gmail.com,Ing Ing - 3 West Coast walk 18-08 unit Singapore  127140 SG
+4876,2017-12-03 14:03:13,wc-processing,"Upon delivery, please leave it with the reception desk. For urgent contact, please call Ms Ines Chan at +65 9168 2217.",567.00,Silvia Tsui,silvia.tsui@gmail.com,"Ines Chan  Ascott Orchard, 11 Cairnhill Road #11-09 Singapore  229724 SG"
+4877,2017-12-04 10:46:04,wc-processing,,388.00,sylwin Angdrew,sylwin79@hotmail.com,sylwin Angdrew Ageing Asia 61 Upper Serangoon View #16-17 HeronBay Singapore  534015 SG
+4878,2017-12-04 11:58:27,wc-processing,,140.00,Cynthia Kwok,starzlet@gmail.com,Cynthia Kwok  109 Lengkong Tiga #04-273 Singapore  410109 SG
+4879,2017-12-04 21:37:16,wc-processing,,124.00,June Chua,frappewhispers@gmail.com,June Chua  52 strathmore avenue 05-241 Singapore  141052 SG
+4880,2017-12-05 01:00:44,wc-processing,"Congratulations Pris and Bryan on the birth of your beautiful daughter Cara!
+
+With love, Shehan, Puyu, Saf, Yee Xian, Jody &amp; Yun Hua",147.00,Yun Hua Gan,libra269_bbngx@hotmail.com,Priscilla Cheng  77 Anchorvale Crescent #10-14 The Vales Singapore  544663 SG
+4881,2017-12-05 12:58:00,wc-processing,Is it possible to provide small bags Cos they are to be separated as gifts..,135.00,Huiyi Hu,hhuiyi90@gmail.com,Huiyi Hu  Blk 153 gangsa Road #14-323 Singapore  670153 SG
+4882,2017-12-05 14:38:15,wc-processing,,210.00,Eve Loh Kazuhara,eveloh@hotmail.com,Eve Loh Kazuhara  432 Clementi Ave 3 02-278 Singapore  120432 SG
+4883,2017-12-05 15:57:46,wc-processing,Pls deliver asap!!,205.00,Tanny Ho,tanihoss@gmail.com,Tanny Ho  18 jalan limau nipis  Singapore  468271 SG
+4885,2017-12-05 16:15:28,wc-processing,,140.00,Shandy Lui,shandy.lui@gmail.com,Shandy Lui  Blk 687C woodlands drive 75 #08-59 Singapore  733687 SG
+4886,2017-12-06 15:33:45,wc-processing,,216.00,Jessica Tan,jazz.tan@gmail.com,Jessica Tan  812 Bedok Reservoir Road #01-16 S479242  Singapore  479242 SG
+4887,2017-12-06 15:43:15,wc-processing,"Hi, could I receive this by Friday 8, December 2017? Also, could I get a paperbag (if there is) for gifting. Thank you for your kind attention! Much appreciated!",140.00,Cheryl Foo,cherylfsy@gmail.com,Cheryl Foo  563 Hougang Street 51 #07-422  Singapore  530563 SG
+4888,2017-12-06 18:30:01,wc-processing,Call upon delivery,204.00,Alene B.,paperkitties@gmail.com,Alene B.  BLK 440 Choa Chu Kang Ave 4 #06-469  Singapore  680440 SG
+4889,2017-12-06 20:51:18,wc-processing,"Kindly package it nicely and if possible, include a thank you card as this is a gift.",145.00,Juli Teng,julitengpl@gmail.com,Annie Koo  19 Pasir Ris Heights  Singapore  519226 SG
+4890,2017-12-07 12:09:43,wc-processing,,102.00,Madeline Tan,madeline30sg@gmail.com,Madeline Tan  Blk 104 Bukit Purmei Road #02-114 singapore  090104 SG
+4891,2017-12-07 18:19:27,wc-processing,,232.00,Ying Xia Chew,blkheng@yahoo.com,Ying Xia Chew  Bulk 747C Bedok Reservoir Crescent #13-35 Singapore  473747 SG
+4892,2017-12-07 20:19:48,wc-processing,,210.00,Jenny Hk,primroses_12@yahoo.com,Jenny Hk  8 ettrick terrace  Singapore  458571 SG
+4893,2017-12-07 22:46:29,wc-processing,,135.00,Ling Yin Tan,tlingyin@gmail.com,"Ling Yin Tan  6 Woodleigh Close, #11-12 Singapore  357902 SG"
+4894,2017-12-08 17:31:52,wc-processing,,140.00,Amanda Lee,amanda.leesj@hotmail.com,Amanda Lee  137 Cecil Street 01-03 Singapore  069537 SG
+4895,2017-12-09 11:34:27,wc-processing,,135.00,Tania Ng,taniangsy@gmail.com,Tania Ng  30 Olive Road  Singapore  298267 SG
+4896,2017-12-10 01:11:02,wc-processing,,135.00,Cheryl Lee,cherylleemh@gmail.com,"Cheryl Lee  391A Orchard Road, Ngee Ann city tower A #13-01 Singapore  238873 SG"
+4897,2017-12-10 10:32:56,wc-processing,,80.00,Jun Kiat Lee,reactive.design@gmail.com,Jun Kiat Lee  5 Purvis Street #02-03  Singapore  188584 SG
+4898,2017-12-10 11:04:52,wc-processing,Please pack the 20 boxes into a carton box together,1400.00,Irene Lee,izrac@live.com,Irene Lee  45 Jalan Tiga #12-36 Singapore  390045 SG
+4899,2017-12-10 15:36:20,wc-processing,,464.00,Lis Katimansah,liskatimansah@gmail.com,Lis Katimansah  28D Barker Road Singapore Singapore  307481 SG
+4900,2017-12-10 16:13:08,wc-processing,,140.00,Joys Lee,joyce_lee47@hotmail.com,Joys Lee  Blk 9 Boon Keng Road #24-164 City view Singapore  330009 SG
+4901,2017-12-10 17:28:35,wc-processing,,240.00,Wai Ying Mak,maki.waiying@gmail.com,"Wai Ying Mak  Hansapoint@CBP, 10 Changi Business Park Central 2 03-01 Singapore  486030 SG"
+4902,2017-12-10 21:34:05,wc-processing,"Hi there, as this is intended to be a Christmas gift, I was wondering if you were able to include a little Christmas Card? Hope you are able to :)",129.00,Pauline Quek,pauline_quek@hotmail.com,Caureen Too  55 Hume Ave #02-11 Singapore  598752 SG
+4903,2017-12-10 23:13:39,wc-processing,,145.00,TingTing Koh,ting80koh@gmail.com,TingTing Koh  Blk 560 Ang Mo Kio Ave 10 #03-1764 Singapore  S560560 SG
+4904,2017-12-11 11:05:42,wc-processing,,124.00,Jolyn Chen,jolyn.chen@gmail.com,Jolyn Chen  Blk 336C Anchorvale Crescent #11-52  Singapore  543336 SG
+4905,2017-12-11 11:45:38,wc-processing,,275.00,yc tang,yctang84@gmail.com,yc tang  BLK10A Boon Tiong Road #08-519  Singapore  160010 SG
+4906,2017-12-11 12:46:54,wc-processing,,280.00,ROANNA ZHANG,ROANNA_INDULGES@HOTMAIL.COM,ROANNA ZHANG  64 DIDO STREET  SINGAPORE  459494 SG
+4907,2017-12-11 14:20:49,wc-processing,,102.00,melissa lim,melissa.limyw@gmail.com,"melissa lim none 91 Cavenagh Road, Cavenagh Fortuna #01-03 Singapore  229629 SG"
+4908,2017-12-11 14:57:13,wc-processing,,210.00,Lena Lim,lxyflower@yahoo.com,"Lena Lim  27 Mount Faber Road, #01-03, Mount Faber Lodge  Singapore  099200 SG"
+4909,2017-12-11 15:45:19,wc-processing,Please arrange for delivery between 9am-12pm or 2pm-6pm. Thank you.,135.00,Charlene Sng,char.eilsel@gmail.com,"Charlene Sng Singtel 31 exeter road, comcentre  Singapore  239732 SG"
+4910,2017-12-11 17:07:12,wc-processing,,140.00,Christabel W,christabel88_@hotmail.com,Christabel W  Blk 559 Hougang Street 51 05-400 Singapore  530559 SG
+4912,2017-12-12 08:19:55,wc-processing,,167.00,Priscilla Tan,priscillatan@gmail.com,Priscilla Tan  Blk 677d Punggol drive #11-748  Singapore  824677 SG
+4913,2017-12-12 09:01:20,wc-processing,,140.00,Priscilla Chong,priscilla.chong@gmail.com,Priscilla Chong  6 Jalan Rendang  Singapore  428344 SG
+4914,2017-12-12 11:30:18,wc-processing,,190.00,Cheryl Lee,calee01@icloud.com,Cheryl L COM3 30 Cecil Street #11-03 Prudential Tower Singapore  049712 SG
+4915,2017-12-12 13:19:42,wc-processing,,204.00,Seok Yin Teoh,suugarrplum@gmail.com,Seok Yin Teoh  Blk 236 Bukit Batok East Ave 5 #07-153 Bukit Batok  650236 SG
+4916,2017-12-12 14:23:14,wc-processing,,140.00,Lim Bee hoon,ying@chengsugar.con,"Lim Bee hoon Cheng yew heng candy factory 12 senoko loop,  Singapore  758149 SG"
+4917,2017-12-12 16:18:07,wc-processing,,120.00,Cheryl Huang,huang.shu.hui8@gmail.com,Cheryl Huang  Blk 308A Punggol Walk #11-424 Singapore  821308 SG
+4918,2017-12-12 17:14:54,wc-processing,,275.00,Joanne Ong,joanne.siyun.ong@gmail.com,Joanne Ong  11 Arnasalam Chetty Road #11-10 Singapore  239949 SG
+4919,2017-12-12 17:56:58,wc-processing,,108.00,Grace Yip,graceyip78@gmail.com,Grace Yip Accenture Pte Ltd c/o Accenture Pte Ltd ; 250 North Bridge Road #35-00 Raffles City Tower Singapore  179101 SG
+4920,2017-12-12 22:48:34,wc-processing,,108.00,Lynn Chng,imyaxin@gmail.com,Lynn Chng  192 bishan st 13 04-499 Singapore  570192 SG
+4921,2017-12-13 08:24:26,wc-processing,,108.00,Wendy Chng,anastasiawen@gmail.com,Wendy Chng  455C Ang Mo Kio Street 44 #29-35 Singapore  563455 SG
+4922,2017-12-13 11:38:11,wc-processing,,108.00,vanessa lim,vanessa.qiying@gmail.com,vanessa lim  Blk 178 Lompang Road #25-36  singapore  670178 SG
+4923,2017-12-13 12:59:52,wc-processing,,167.00,Sharon Chong,sharon.ccy@gmail.com,Sharon Chong  53 Hume Avenue #08-03 Parc Palais Singapore  598751 SG
+4924,2017-12-13 17:58:10,wc-processing,,135.00,Choon hong Tan,rachtanch@gmail.com,Choon hong Tan  287 Ocean drive #08-10 Singapore  098530 SG
+4925,2017-12-13 21:54:54,wc-processing,,124.00,ALEXIS CHNG,lil.hamz@gmail.com,ALEXIS CHNG  53 MOONBEAM TERRACE  SINGAPORE  277317 SG
+4926,2017-12-13 22:31:02,wc-processing,Pls deliver after 4pm,216.00,Karen Tong,ling28181@yahoo.com,Karen Tong  Blk 676C Punggol Drive #04-730 Singapore  823676 SG
+4927,2017-12-14 05:01:29,wc-processing,,210.00,Lovelle Peh,yeetzee90@gmail.com,Lovelle Peh  303B anchorvale link #05-96 Singapore  542303 SG
+4928,2017-12-14 10:31:41,wc-processing,,135.00,Geraldine Ng,ng.gerline@gmail.com,Geraldine Ng  Pavilion Place 45 singapore  658381 SG
+4929,2017-12-14 12:21:42,wc-processing,,170.00,joanne lin,joannelrp@gmail.com,joanne lin  6 Boon Keng Road 05-66 Singapore  330006 SG
+4930,2017-12-14 14:55:42,wc-processing,,124.00,Sylvia Lim,sylvialpw@gmail.com,Sylvia Lim  30A Holland Close #08-205 Singapore  271030 SG
+4931,2017-12-14 15:30:17,wc-processing,Please drop me a call when delivery reaches.,135.00,Pammy Ng,ponyo_ng@hotmail.com,Pammy Ng Marvell Asia Pte Ltd 8 Tai Seng Link  Singapore  534158 SG
+4932,2017-12-14 20:09:18,wc-processing,,312.00,sue wen,missbutterworth@gmail.com,sue wen  7 Claymore Road 19-01 Singapore  229538 SG
+4933,2017-12-14 21:34:24,wc-processing,,189.00,Karen Koh,wodeshopping@gmail.com,Karen Koh  81 Thomson Green Singapore 574949 Singapore  574949 SG
+4934,2017-12-15 08:58:44,wc-processing,,290.00,JUN JUN HENG,junzyjunjun@hotmail.com,JUN JUN HENG  18 JALAN SIANTAN  SINGAPORE  268257 SG
+4935,2017-12-15 09:52:22,wc-processing,Buying this for my Mother whose birthday falls on 22 December 2017.,102.00,Sherie Low,sherielow@gmail.com,Sherie Low  713 Pasir Ris Street 72 #11-43 Singapore  510713 SG
+4936,2017-12-15 10:03:56,wc-processing,,225.00,K Li,howkooky@mail.com,K Li  Block 254 Bishan Street 22 #07-446 Singapore  570254 SG
+4937,2017-12-15 12:40:18,wc-processing,,145.00,Sher Wei Lim,calamarii@yahoo.com,Sher Wei Lim  Blk 18C Holland Drive #24-437  Singapore  274018 SG
+4938,2017-12-15 14:36:02,wc-processing,please call 92323660 before delivery. thank you.,135.00,kazumoto ejiri,yin@koyorad.com.sg,kazumoto ejiri koyorad international operations pte ltd 8 temasek boulevard #40-03 suntec city tower 3 singapore  038988 SG
+4939,2017-12-15 14:47:24,wc-processing,You can call me when you reach my office to collect in person. Please deliver on a weekday. Thank you.,243.00,Alice Lim,whiteluff@gmail.com,Alice Lim Dbs bank DBS Bank 12 Marina Boulevard Marina Bay Financial Centre Tower 3 #15-00 Singapore  018982 SG
+4940,2017-12-16 00:04:21,wc-processing,Please advise if possible to add a Happy Birthday tag/note.,120.00,Shihui Koo,sshhuuee12@live.com,Dawn Mak  Blk 324 Jurong East Street 31 #11-132 Singapore  600324 SG
+4941,2017-12-16 17:06:30,wc-processing,Please contact Ming-Ting for this order 96468064,210.00,Lina Layanto,say_mu@hotmail.com,Lina Layanto  100 Greenwood Avenue  Singapore  289306 SG
+4942,2017-12-16 17:28:07,wc-processing,,140.00,Lina Layanto,say_mu@hotmail.com,Lina Layanto  100 Greenwood Avenue  Singapore  289306 SG
+4943,2017-12-16 23:21:33,wc-processing,,140.00,June Chua,frappewhispers@gmail.com,June Chua  52 strathmore avenue 05-241 Singapore  141052 SG
+4944,2017-12-17 00:14:19,wc-processing,Please head up to reception area on level 6,410.00,priscilla tan,tanprisca@gmail.com,"priscilla tan iqvia 79 Science Park Drive #06-08 Cintech IV, Science Park One singapore  118264 SG"
+4945,2017-12-17 08:51:50,wc-processing,,930.00,Jeana Goh,gnagoh@gmail.com,Jeana Goh  299A Compassvale Street #11-136  Singapore  541299 SG
+4946,2017-12-17 10:38:25,wc-processing,"I would like to arrange for pick-up to make it for a gifting on 19 Dec, if possible.",324.00,Hui Nan Lim,limhuinan@gmail.com,Hui Nan Lim  8 queen Street #01-03 Singapore  188535 SG
+4947,2017-12-17 11:07:19,wc-processing,,147.00,Maria Singh,mariahannah@gmail.com,Maria Singh  416 Jurong West street 42 12-777 Singapore  640416 SG
+4948,2017-12-17 11:46:28,wc-processing,,145.00,Lyn Lee,flynlee@gmail.com,"Lyn Lee  47A Joo Chiat Lane, Gideon's Lodge (2nd level) Singapore  428105 SG"
+4949,2017-12-17 13:19:55,wc-processing,,80.00,Yingting Kwek,green1420@hotmail.com,Yingting Kwek  54 New Changi Road #21-1462 Singapore  461054 SG
+4951,2017-12-18 13:45:11,wc-processing,Please call 30 minutes before delivery. Contact number 98455005 or 97529856,210.00,Sylvia Cai,sylvia.cai@gmail.com,Sylvia Cai  11 Keng Cheow Street #07-01  Singapore  059608 SG
+4952,2017-12-18 16:54:58,wc-processing,"i would really appreciate if you could deliver by 20 Dec, Wednesday.",324.00,Andy Tan,yourstrulyandy@hotmail.com,Andy Tan SAS Institute Pte Ltd 1 Wallich St #16-01/02 Guoco Tower Singapore  078881 SG
+4953,2017-12-18 17:24:49,wc-processing,"Please do not include the receipts or price tag with the delivery. Its a gift. Please include message "" Merry Holidays to you and family Sheau Hwa. Thank you very much for your time and generosity to help on my Stolen Light Project. Much much appreciated. – From Elyn, Stolen """,64.00,yinyin wong,contact@stolenstolen.com,"Sheau Hwa Wong RSAF RSAF Aeromedical Centre, 492 Airport Road S539945 RSAF Aeromedical Centre, 492 Airport Road S539945 Singapore  539945 SG"
+4954,2017-12-18 21:18:19,wc-processing,,64.00,Li Yann Long,chaoticstar@gmail.com,Li Yann Long  Blk 515C #06-24 Tampines Central 7  Singapore  523515 SG
+4955,2017-12-18 22:05:39,wc-processing,,64.00,Jade Chua,jadechua@hotmail.com,Jade Chua  37 Cambridge Road #12-147 Singapore  210037 SG
+4956,2017-12-19 00:30:24,wc-processing,,108.00,Andy Tan,yourstrulyandy@hotmail.com,Andy Tan SAS Institute Pte Ltd 1 Wallich St #16-01/02 Guoco Tower Singapore  078881 SG
+4957,2017-12-19 13:05:38,wc-processing,,162.00,Charlene Er,jollyshany@hotmail.com,Charlene Er  32 Duku Road 05-03 Singapore  429190 SG
+4958,2017-12-19 14:54:34,wc-processing,CHRISTMAS DELIVERY,243.00,LISA LIM,lisa.lim@firststate.com.sg,LISA LIM  70b Telok Blangah Heights #10-525 Singapore  102070 SG
+4959,2017-12-19 16:44:51,wc-processing,"This order is for overseas.
+Please deliver as below:
+1) 1 x single ritual kit and 1 set of 3 creams to be delivered to:
+Jenny Chow,
+Flat E, 16/F, Tower 3, The Waterfront, 1 Austin Road W, Tsim Sha Tsui, Hong Kong
+
+2) 1 set of single ritual kit and 1 set of 3 creams to be delivered to
+Lillian Chen
+6F-5, No.71, Section 2, Ren Ai Road, Taipei, Taipei, 100 Taiwan
+
+Thank you!",290.00,Chia Wei Lim,chiawei2610@gmail.com,Chia Wei Lim  52 Ubi avenue 3 #01-35 Frontier Singapore 408867  Singapore  408867 SG
+4960,2017-12-19 17:56:25,wc-processing,,80.00,May Yeow,yeowhx@hotmail.com,May Yeow  166B punggol central #02-143 Singapore  822166 SG
+4961,2017-12-19 19:42:10,wc-processing,"Will there be a mini x-mas card to go along with the order?
+
+Please deliver during office hours opens 8.30am - 5.30pm. Avoid Lunch Time 11.30am - 2pm. ATTN: ELIZABETH TAN - Level 7",80.00,Elizabeth Tan,elizabeth.tanlt@gmail.com,Elizabeth Tan Johnson Controls 2 Serangoon North Ave 5 #07-01 Singapore  554911 SG
+4962,2017-12-19 22:20:25,wc-processing,,80.00,Janice Boon,janice_boon@hotmail.com,Janice Boon  Blk 287D Jurong East st 21 #10-310 Singapore  604287 SG
+4963,2017-12-19 23:14:28,wc-processing,,124.00,Mei Wan Foo,meiwanfong@gmail.com,Mei Wan Foo  Blk 202C Sengkang East Road #12-52 Singapore  543202 SG
+4964,2017-12-20 08:38:57,wc-processing,,80.00,Diying Wang,diying@gmail.com,Diying Wang  8 Shan Road #10-03 Marque@Irrawaddy Singapore  328108 SG
+4965,2017-12-20 11:26:29,wc-processing,,135.00,Jerry Tan,omnicale@gmail.com,Li Nah Chew  49 Highgate Crescent  Singapore  598830 SG
+4966,2017-12-20 12:20:54,wc-processing,,485.00,Zhihan Song,songzhihan@gmail.com,Zhihan Song  32 Jalan Tiga Ratus  Singapore  488071 SG
+4967,2017-12-20 14:47:25,wc-processing,,80.00,Tan May Ting,trish_0816@hotmail.com,Tan May Ting  347 Bukit Batok Street 34 #11-230 Bukit Batok  650348 SG
+4968,2017-12-20 21:59:12,wc-processing,please call or message me when the order arrived cuz I may oversea,140.00,Chen Wei,avivi698@hotmail.com,"Chen Wei  Textile Centre, 200 Jalan Sultan #23-05 town  199018 SG"
+4969,2017-12-21 12:32:08,wc-processing,Deliver to Level 6,205.00,Lorraine Wee,lwee@golin.com,Lorraine Wee Golin Singapore 40A Orchard Road 06-01 The MacDonald House Singapore  238838 SG
+4970,2017-12-22 13:50:08,wc-processing,,108.00,Mei Ting Leong,mei.ting.leong@gmail.com,Mei Ting Leong  15 Dyson Road  Singapore  309374 SG
+4971,2017-12-23 11:42:46,wc-processing,,64.00,Kah Leng Tan,sputnik25@hotmail.com,Kah Leng Tan  Blk 109 Spottiswoode Park Road #12-87  Singapore  080109 SG
+4972,2017-12-25 15:44:27,wc-processing,,140.00,Esther Sim,simly.esther@gmail.com,Esther Sim  523 Bedok Reservoir Road #01-78 Archipelago Singapore  479278 SG
+4973,2017-12-25 18:20:53,wc-processing,,190.00,Chiam Siew Cheng,joan_ngsh@hotmail.com,"Chiam Siew Cheng  47 Tampines Industrial Ave 5, T5 @ Tampines  Singapore  528633 SG"
+4974,2017-12-27 23:29:13,wc-processing,,570.00,Wei Yin Ooi,weiyin93@gmail.com,Wei Yin Ooi  71 Choa Chu Kang Loop #04-01 Northvale Singapore  689673 SG
+4975,2017-12-27 23:32:26,wc-processing,Please leave the parcel in my shoe cabinet underneath the plant. I won’t be at home until evening.,80.00,Caryn Goh,cocoa.noir@gmail.com,"Caryn Goh  The Plaza, 7500A Beach Road #28-306 Singapore  199591 SG"
+4976,2017-12-28 11:00:37,wc-processing,,2835.00,Grace Lim,grace@hsl.com.sg,"Grace Lim HSL Constructor Pte Ltd 42D Penjuru Road, Level 5 HSL @ Penjuru Waterfront Singapore  609162 SG"
+4977,2017-12-29 21:42:30,wc-processing,Please deliver on 31st dec,85.00,Yu Mei Ong,yumei610.star@hotmail.com,Yu Mei Ong Sigma-Aldrich pte ltd Blk 577 hougang ave 4 #06-666  Singapore  530577 SG
+4978,2017-12-30 09:39:11,wc-processing,Pls arrange delivery on Monday,80.00,Bon Lim,esbonde@gmail.com,Bon Lim  39 Upper Boon Keng Road #25-2408  Singapore  380039 SG
+4979,2017-12-30 12:59:54,wc-processing,,135.00,Ing Ing,inging1410@gmail.com,Ing Ing - 3 West Coast walk 18-08 unit Singapore  127140 SG
+4980,2017-12-30 18:24:16,wc-processing,,108.00,Ju-Anne Chan,ju.chan@outlook.com,Ju-Anne Chan  10 Collyer Quay #10-01 Singapore  049315 SG
+4982,2017-12-31 15:48:18,wc-processing,Pls deliver before 4 Jan 2018,237.00,Christine Ko,sableko@yahoo.com.sg,Margrate Cheong  Blk 366 Yishun Ring Road 09-1506 Singapore  760366 SG
+4983,2018-01-01 18:11:30,wc-processing,,135.00,Junni Tan,hoping4happyaccidents@gmail.com,Junni Tan Allied Telesis Asia Pacific Pte Ltd 11 Tai Seng Link Lobby Singapore  534182 SG
+4984,2018-01-03 11:11:44,wc-processing,"Please add a gift note:
+Happy Birthday Ma!",156.00,Michelle Tung,j0s1e267@yahoo.com,Jackie Teo  26 Fernwood Terrace #20-02 Singapore  458555 SG
+4985,2018-01-03 17:20:00,wc-processing,,108.00,Ivy Ye,ivy.ye@suntory.com,Ivy Ye Suntory Beverage & Food Asia Pte Ltd 18 Cross Street China Square Central #12-01 Singapore  048423 SG
+4986,2018-01-05 13:37:59,wc-processing,,205.00,Kim Geck Lim,kimgeck@gmail.com,Kim Geck Lim 1971 Blk 110 #08-17 Whampoa Road  Singapore  321110 SG
+4987,2018-01-06 10:30:11,wc-processing,"Please leave at door and SMS me if no one is at home, thank you",140.00,Joanne Ong,joanne.siyun.ong@gmail.com,Joanne Ong  11 Arnasalam Chetty Road #11-10 Singapore  239949 SG
+4988,2018-01-06 13:28:59,wc-processing,,290.00,Lai Yee Tang,secretfit@gmail.com,Lai Yee Tang  311C Clementi Avenue 4 #06-193 Singapore  123311 SG
+4989,2018-01-06 15:35:50,wc-processing,,124.00,Denise Tan,tandenise@gmail.com,Denise Tan  Blk 60 New Upper Changi Road #15-1210 Singapore  461060 SG
+4990,2018-01-07 14:44:10,wc-processing,This is a present. Please do not include price or bill in this delivery. Please target delivery late afternoon to evening time only,210.00,Eve Loh Kazuhara,eveloh@hotmail.com,Cindy Tan  Blk 470 Ang Mo Kio Ave 10 07-906 Singapore  560470 SG
+4991,2018-01-07 18:20:47,wc-processing,It’s a birthday gift for my Mum.,135.00,Tan Chia Hui,flemish317@hotmail.com,"Tan Chia Hui  Blk 57, Telok Blangah Heights, #04-137  Singapore  100057 SG"
+4992,2018-01-08 16:27:01,wc-processing,"Can you please provide me 2 gift cards?
+
+The msg in one card -
+
+Dear Annita,
+
+A small gift for you to take 5 min just to pamper yourself in your beautiful new apartment!
+
+With Love, Evelyn
+
+The other gift card please leave it empty we will hand write it.
+
+Thank you!",102.00,Evelyn Chan,evelyncsl@gmail.com,Evelyn Chan  434 Hougang Ave 8 02-1671 Singapore  530435 SG
+4993,2018-01-08 22:34:03,wc-processing,Get well soon. From the Adamson-Goh,432.00,Elizabeth Goh,mutatedwonton@gmail.com,Angela / Andrew Teo Happy Duo 27 Rebecca road  Singapore  268626 SG
+4994,2018-01-09 23:41:16,wc-processing,,240.00,Julie Lo,julielolai@gmail.com,Julie Lo  8 Jervois Hill  Singapore  247711 SG
+4995,2018-01-10 10:37:55,wc-processing,Urgent. Hope to receive by Friday 12 JAN,275.00,Mindy Ng,chobeefheart@hotmail.com,Mindy Ng  Blk 34 Whampoa West #09-05  Singapore  330034 SG
+4996,2018-01-10 21:18:08,wc-processing,,135.00,soek mun ng,soekmun.ng@gmail.com,peng kee ng  224 simei street 4 09-102 singapore  520224 SG
+4997,2018-01-11 18:31:43,wc-processing,"This item is to be delivered to Bank of Singapore, Wu Qiuping",75.00,Madeline Tan,madeline30sg@gmail.com,Madeline Tan Bank of Singapore 63 Chulia Street OCBC Centre East Level 11 Singapore  049514 SG
+4998,2018-01-12 19:45:51,wc-processing,,135.00,Ryan Chong,chongryan2000@yahoo.com.sg,Ryan Chong  276 Joo Chiat Place  Singapore  427956 SG
+4999,2018-01-14 15:58:16,wc-processing,"Happiest of all birthdays Phoebe!
+Celebrate with food, glorious food! :)
+
+Love,
+Mac",129.00,Mackie Tan,mackietan@gmail.com,Phoebe Kho  9 Cairnhill Road #14-10 Cairnhill Nine Singapore  229723 SG
+5000,2018-01-14 20:24:32,wc-processing,,240.00,Jessica teo,jessicateo@gmail.com,Jessica teo  39 sennett Lane  Singapore  466932 SG
+5001,2018-01-15 00:23:11,wc-processing,9am - 5pm office hours.,80.00,Hazrul Idzwan Lamin,haz.idzwan@gmail.com,Hazrul Idzwan Lamin Moving Bits Pte Ltd 883A Bukit Timah Road  Singapore  279894 SG
+5002,2018-01-15 10:14:30,wc-processing,"Need to have them before Friday, please only deliver during office hours 9am to 6pm. Thanks!",108.00,Karen Fong,karentanfong@gmail.com,"Karen Fong SPH M. Pte Ltd 1000 Toa Payoh North, News Centre Level 8 Annexe Block Singapore  318994 SG"
+5003,2018-01-15 12:37:07,wc-processing,,205.00,Mary Lim,starynitez99@gmail.com,Mary Lim  Blk 183 Bukit batok west avenue 8 #08-119 Singapore  650183 SG
+5004,2018-01-15 15:30:03,wc-processing,,135.00,Judy Goh,ydujgoh@gmail.com,Judy Goh  Blk 141 Serangoon North Avenue 2 #07-10 Singapore  550141 SG
+5005,2018-01-15 16:32:57,wc-processing,,405.00,Berlin Rusly,rusly85@gmail.com,Berlin Rusly  18 Marina Boulevard #51-01 Marina Bay Residence Singapore  018980 SG
+5006,2018-01-15 21:13:41,wc-processing,"It is a gift.
+Please kindly include the following:
+Dear Patrick,
+Happy Lunar New Year!
+From
+Royce",174.00,Royce Tan,roycetan3@gmail.com,"Patrick Chee  King's Mansion, 12 Amber Gardens, Block B 11-08 Singapore  439959 SG"
+5007,2018-01-16 08:40:11,wc-processing,"1 Box of 6 requires the box packaging (gift), remaining 2 boxes of 6- please bubble wrap for luggage do not require the boxes. 1 box of 3 (all flavours) requires box packaging (gift), the other box of 3 (2 original, 1 rose)- please bubble wrap for luggage do not require the boxes. i hope these travel well in luggage! Thanks!",545.00,Ling Yin Tan,tlingyin@gmail.com,Sue Lau State Street Bank and Trust Co 168 Robinson Rd Level 34 Capital Tower Singapore  068912 SG
+5008,2018-01-16 11:40:46,wc-processing,,275.00,Rosalind Tham,rosalindt@gmail.com,Rosalind Tham  51 Meyer Road #03-04 Singapore  437484 SG
+5009,2018-01-16 12:20:13,wc-processing,"Take the lift to level 3, from basement Carpark Lobby B",140.00,Bai He Teng,sweet_bell_angel@yahoo.com,"Bai He Teng Nordson Advanced Technology (Singapore) Pte Ltd 2 Corporation Road Corporation Place, Unit #03-10/11/12 Singapore  618494 SG"
+5010,2018-01-17 09:43:40,wc-processing,Please get in touch on expected delivery timing as there is no one at home most of the time - will have to find mutually convenient time.,221.00,Jaclyn Seow,jaclyn.seow@gmail.com,Jaclyn Seow  21 Mandalay Road #11-01 Singapore  308208 SG
+5011,2018-01-18 19:48:11,wc-processing,Please arrange delivery around 1.30pm. Call will arrive.,138.00,Patricia Chia,patriciakwok4265@gmail.com,Patricia Chia Giant supermarket 60 paya lebar. #B1-01/05 Paya lebar square  409051 SG
+5012,2018-01-19 14:38:48,wc-processing,,980.00,Irene Lee,izrac@live.com,Irene Lee  45 Jalan Tiga #12-36 Singapore  390045 SG
+5013,2018-01-19 22:09:56,wc-processing,,140.00,Magdalyn Yeo,magdalyn@gmail.com,Magdalyn Yeo  670B Edgefield Plains #05-622 Singapore  822670 SG
+5014,2018-01-23 10:15:21,wc-processing,,810.00,Berlin Rusly,rusly85@gmail.com,Berlin Rusly  18 marina boulevard #51-01 marina bay residence Singapore  018980 SG
+5015,2018-01-23 13:47:05,wc-processing,,210.00,shi qin,thefabricatedissue@hotmail.com,shi qin  BLK 308 HOUGANG AVE 5 #08-343 HOUGANG  530308 SG
+5016,2018-01-23 17:58:53,wc-processing,,167.00,Maria Ho,mh2p@hotmail.com,Maria Ho  43 Jalan Lokam  Singapore  537881 SG
+5017,2018-01-23 18:21:43,wc-processing,Kindly please contact Ms. Maria at 92350841 before delivery.. thank you,140.00,Inge Phang,inge.phang@gmail.com,Maria Chen  264E Compassvale Bow #10-78  Singapore  548264 SG
+5018,2018-01-23 21:37:27,wc-processing,,210.00,Jean Lee,jl14679@yahoo.com,Jean Lee  25 Woodleigh Close #02-28 Euro Asia Park Singapore  357920 SG
+5019,2018-01-24 12:54:08,wc-processing,,270.00,Berlin Rusly,rusly85@gmail.com,Berlin Rusly  18 marina boulevard #51-01 marina bay residence singapore  018980 SG
+5020,2018-01-24 12:58:46,wc-processing,,135.00,Berlin Rusly,rusly85@gmail.com,Berlin Rusly  18 marina boulevard #51-01 marina bay residence singapore  018980 SG
+5021,2018-01-25 13:00:21,wc-processing,Please call before delivery as this is my office address,653.00,Evelyn Or,evelyn.or@wearnes.com,Evelyn Or Wearnes Automotive Pte Ltd 45 Leng Kee Road 24 #06-134 singapore  159103 SG
+5022,2018-01-25 13:06:39,wc-processing,,80.00,Chan Shaojie,chanshaojie@gmail.com,Faith Tong  Block 706 Clementi West Street 2 #12-381 Singapore  120706 SG
+5023,2018-01-25 18:50:30,wc-processing,"CAROLYN &amp; MARIO, HAPPY LUNAR NEW YEAR! CHRISTINA WONG",135.00,Christina Wong,christye2011@gmail.com,CAROLYN MARIO  55 PASIR RIS AVENUE  SINGAPORE  519720 SG
+5024,2018-01-26 12:40:04,wc-processing,,220.00,June Leong-Seth,june.leongseth@gmail.com,June Leong-Seth  3 Guan Soon Avenue  Singapore  489575 SG
+5025,2018-01-29 02:55:24,wc-processing,,37.00,Eddy Susanto,eddysusanto2002@yahoo.com,Eddy Susanto Prodigious 16 Collyer Quay #03-00 Singapore  049318 SG
+5026,2018-01-30 11:41:26,wc-processing,,2450.00,Michelle Chong,xchong@sg.estee.com,Michelle Chong Estée Lauder cosmetics pte ltd 83 Clemenceau Avenue #02-08 Singapore  239920 SG
+5027,2018-01-30 14:43:02,wc-processing,,37.00,vallence huang,vallence@elevatesg.com,vallence huang elevate blk 543 jelapang rd #09-64  singapore  670543 SG
+5028,2018-01-30 22:53:02,wc-processing,,140.00,Cindy Luar,cindyluar@gmail.com,"Cindy Luar  202 Kim Seng Road, The Cosmoplitan #16-08 Singapore  239496 SG"
+5029,2018-01-30 23:04:18,wc-processing,,915.00,Diana Harkono,widjajafam@hotmail.com,Diana Harkono  4 Cairnhill Rise #09-02 Singapore  229740 SG
+5030,2018-01-31 10:14:22,wc-processing,,37.00,Claire Woo,woo.claire@ymail.com,Claire Woo  #05-553 258A Compassvale Road Singapore  541258 SG
+5031,2018-01-31 12:41:54,wc-processing,,140.00,Yvonne Wee,yvonnewee@yahoo.com,Yvonne Wee  968 Dunearn Road #03-21 Jardin Singapore  589489 SG
+5032,2018-01-31 15:59:04,wc-processing,,210.00,shermien k koh,shermienk@gmail.com,shermien k koh  68 commonwealth drive 02-231 singapore  140068 SG
+5033,2018-01-31 18:05:24,wc-processing,,205.00,Christina Wong,christye2011@gmail.com,Christina Wong  83c namly drive Singapore  267488 SG
+5034,2018-01-31 22:41:58,wc-processing,,37.00,Eddy Susanto,eddy.susanto@gmail.com,Eddy Susanto  16 Collyer Quay #03-00 Singapore  049318 SG
+5036,2018-02-01 00:13:52,wc-processing,,37.00,Eddy Susanto,eddy.susanto@gmail.com,Eddy Susanto Prodigious 16 Collyer Quay #03-00 Singapore  049318 SG
+5037,2018-02-01 10:23:10,wc-processing,,302.00,Georgina Sim,georginaspl@gmail.com,Georgina Sim  755 mountbatten road 755 singapore  437758 SG
+5038,2018-02-01 15:28:08,wc-processing,,205.00,Koh Wei ling,shootingstar_131@hotmail.com,Koh Wei ling  505 Ang Mo Kio avenue 8 03-2678 Singapore  560505 SG
+5039,2018-02-01 17:20:24,wc-processing,,167.00,Cynthia Cheng,cynthiachengsm@gmail.com,Cynthia Cheng  Blk 6 Kim Tian Road #06-106  Singapore  163006 SG
+5040,2018-02-02 17:31:12,wc-processing,,305.00,Winnie So,wwnso98@gmail.com,Eugene Ong  43 Mimosa Road #05-49 Mimosa Park Singapore  808005 SG
+5041,2018-02-03 19:28:25,wc-processing,Please deliver on 10 February 2018,540.00,Berlin Rusly,rusly85@gmail.com,Mdm Seok Hwa (Mrs Lee)  66 Belmont Road  Singapore  269899 SG
+5042,2018-02-03 22:32:13,wc-processing,,145.00,E San Ng,ngesan@yahoo.com,E San Ng  266B Compassvale Bow 04-14 Singapore  542266 SG
+5043,2018-02-05 20:00:15,wc-processing,Please call prior to delivery. Office hours only. Thank you.,340.00,Audrey Ong,ong_audrey@hotmail.com,Audrey Ong  260 Orchard Rd The Heeren office block 07-09 Singapore  238855 SG
+5044,2018-02-06 06:24:57,wc-processing,,37.00,Vallence Huang,vallence@elevatesg.com,Vallence Huang  blk 543 jelapand rd #09-64  singapore  670543 SG
+5045,2018-02-06 08:06:35,wc-processing,,255.00,Adeline Teng,adeltph@hotmail.com,Adeline Teng  42D Penjuru Road Level 5  Singapore  609162 SG
+5046,2018-02-06 17:14:28,wc-processing,,135.00,Mark Zhou,markezhou@hotmail.com,Mark Zhou  240 Westwood Acenue #12-46 Singapore  648364 SG
+5047,2018-02-07 11:38:00,wc-processing,"For gifting, Pls include 3 paper bags if any!",167.00,Diana Lee,tomidia@yahoo.com,Diana Lee  3 Tampines Ave 8 #03-01 Arc at Tampines Singapore  529595 SG
+5048,2018-02-07 14:41:00,wc-processing,Please leave at the mail delivery desk on the ground floor,84.00,Royce Yap,royceyap@gmail.com,Royce Yap  60B Orchard Road #06-18 Tower 2 The Atrium@Orchard  Singapore  238891 SG
+5051,2018-02-08 10:09:00,wc-processing,,85.00,June Chia,yi_june@yahoo.com,Wendy Chung  Blk 114 Edgefield Plains #03-376 Singapore  820114 SG
+5052,2018-02-08 16:23:00,wc-processing,,147.00,Dexton Lim,hilimjunjie@gmail.com,Dexton Lim TK Engineering Pte Ltd BLK 161 YUNG PING ROAD #06-25 HDB SINGAPORE  610161 SG
+5053,2018-02-08 18:43:50,wc-processing,,328.00,Whee Choo Lim,wheechoo@kuo.com.sg,Whee Choo Lim  4 Ardmore Park #12-01 Heritage Apartments Singapore  259960 SG
+5054,2018-02-08 20:53:12,wc-processing,,700.00,Cheryl Yee,chyee@sg.estee.com,Cheryl Yee Estee Lauder Cosmetics 83 Clemenceau Avenue #02-08 UE Square Singapore  239920 SG
+5055,2018-02-08 21:25:12,wc-processing,,174.00,Teo sze ling Teo,Szelingteo@yahoo.com.sg,Teo sze ling Teo  39 sennett lane  Singapore  4669324 SG
+5056,2018-02-08 21:28:25,wc-processing,,80.00,Shu Jie Tan,shujie5779@gmail.com,Shu Jie Tan  Block 170 bishan street 13 #03-53 Singapore  570170 SG
+5057,2018-02-09 04:42:06,wc-processing,,360.00,LIM CHONG BOON,LIMCB2008@GMAIL.COM,"LIM CHONG BOON  16 CHANCERY HILL ROAD, #01-03 VILLA CHANCERITA SINGAPORE  309657 SG"
+5058,2018-02-09 11:36:02,wc-processing,please message or call Zen 81800280 before delivery to check anyone at home. Thanks!,135.00,Wee Chew,chien_weit_t@hotmail.com,"Zen Zhao  #05-02, 66 Phoenix Road Hillsta Singapore  668201 SG"
+5059,2018-02-09 14:56:48,wc-processing,Please deliver on 22 Feb after 10am and contact Siner at 98340924,237.00,Michelle Lim,mielelim@gmail.com,Siner Chua Crowe Horwath First Trust Outsourcing Pte Ltd 8 Shenton Way #05-01 AXA Tower Singapore  068811 SG
+5060,2018-02-21 22:28:28,wc-processing,,140.00,Wai Peng Yan,jyanwp@hotmail.com,Wai Peng Yan  669 Jalan Damai #11-53 Singapore  410669 SG
+5061,2018-02-22 11:17:15,wc-processing,"Hi, this is a birthday gift, kindly wrap it nicely.",150.00,Christina Tan,nana.xtina@gmail.com,Anne Cheong CSA Shipping Pte Ltd 10 Genting Road #02-00 Singapore  349473 SG
+5062,2018-02-22 14:53:09,wc-processing,"Happy Birthday Avelyn! Love, Diana",165.00,Angeline Goh,gstangeline@gmail.com,"Avelyn Ang SayChiizu 83 Punggol Central, B1-K1, WaterWay Point, Singapore  828761 SG"
+5063,2018-02-23 10:07:43,wc-processing,Please deliver during working hours 9am to 5pm Monday - Friday,221.00,Tan Chia Yean,tangoose_cy@yahoo.com.sg,"Tan Chia Yean SANYO SINGAPORE PTE LTD NO 1 TOH TUCK LINK (Spare parts Dept, first floor near warehouse) Singapore  596222 SG"
+5064,2018-02-24 08:54:01,wc-processing,,237.00,Margaret Cheong,margaretc_29@yahoo.com,Margaret Cheong  Blk 366 Yishun ring rd #09-1506 Singapore  760366 SG
+5065,2018-02-25 01:52:19,wc-processing,,37.00,Candice Neo,diamond_spears@yahoo.com,Candice Neo  102 Hougang Ave 1 #12-1177 Singapore  530102 SG
+5066,2018-02-26 14:48:00,wc-processing,,150.00,vallence huang,vallence@elevatesg.com,vallence huang  blk 543 jelapang road #09-64  singapore  670543 SG
+5067,2018-02-27 08:00:06,wc-processing,Able to expedite the delivery? Please leave the box inside the riser next to the unit. Thank you.,80.00,Jacelyn Sng,voguecrown@gmail.com,Jacelyn Sng  505D Yishun Street 51 #07-62 Singapore  764505 SG
+5068,2018-02-27 11:21:10,wc-processing,,135.00,Cynthia Ong,cynthia_ong_wq@hotmail.com,Cynthia Ong  64A Telok Kurau Lorong H  Singapore  426149 SG
+5069,2018-02-28 07:33:07,wc-processing,the flavour I want two each,135.00,jiatong `ying,helenyingjiatong@hotmail.com,song zhuan Shenshuaitong Shen  340 Geylang Road #01-37 Le Regal  singapore  389365 SG
+5070,2018-03-01 13:17:12,wc-processing,Latest delivery by Sunday pls,205.00,Eileen Koh,deka39@singnet.com.sg,Eileen Koh  39 Jln Usaha  Singapore  537179 SG
+5071,2018-03-01 17:45:30,wc-processing,,220.00,Arthur Goh,arthurgwi@gmail.com,"Arthur Goh  Blk 659A, Jurong West Street 65 #04-0327 Singapore  641659 SG"
+5072,2018-03-05 02:11:42,wc-processing,"Dearest Su Yin
+Sending all our love and wishing you a speedy recovery! Rest well!
+Love,
+Everyone @ MapleBear Midview City",174.00,Michelle Wan,michelle1ashleigh@gmail.com,Su Yin Ong  43 Bright Hill Drive #14-11 Thomson Three Singapore  573894 SG
+5073,2018-03-05 12:58:31,wc-processing,,80.00,Germaine Tay,germainetay@yahoo.com,Germaine Tay  Blk 273A Bishan St 24 #32-100 Singapore  571273 SG
+5074,2018-03-05 22:08:32,wc-processing,,135.00,Alli Teal,alli.sim@gmail.com,Alli Teal Mmerci Encore 541 Orchard Rd #04-00 Liat Towers Singapore  238881 SG
+5075,2018-03-06 10:36:00,wc-processing,,64.00,Cheryl Tan,cheryl@spectrumgroup.is,"Cheryl Tan Spectrum Group 140 Robinson Road, The Working Capitol $04-01 Singapore  068907 SG"
+5076,2018-03-09 19:35:40,wc-processing,its a gift for friends,210.00,Callie Chua,calliechua@gmail.com,"Callie Chua 1969 21 Holland Hill, #04-06 Lush On Holland Hill  Singapore  278737 SG"
+5077,2018-03-12 18:24:06,wc-processing,,80.00,Cheryl Yee,cmmpg@estee.com,"Cheryl Yee Estee Lauder Metro Paragon Shopping Centre 290 Orchard Rd, Singapore 238859 Singapore  238859 SG"
+5078,2018-03-13 09:06:45,wc-processing,,80.00,Sheryl Koh,xxue_@hotmail.com,Sheryl Koh  101 Mergui Road #13-05 Cityscape Singapore  219067 SG
+5080,2018-03-18 13:20:48,wc-processing,"Congrats for your new baby boy!
+From Yan Teng, Rachel, Qiyun, Alene, Celine, Ena &amp; Cynthia",80.00,Yan Teng Teo,tebisha@gmail.com,Vinna Er  15 Fernvale Close #06-26 Riverbank Singapore  797477 SG
+5081,2018-03-19 10:36:08,wc-processing,,270.00,KRISTEN LIM,huiyil@gmail.com,KRISTEN LIM  39 BEDOK RIA CRESCENT  SINGAPORE  489855 SG
+5082,2018-03-21 12:26:41,wc-processing,,270.00,Janice Wong,janice.wong@iggys.com.sg,Janice Wong  22 Nassim Hill #03-02 The Loft Singapore  258468 SG
+5083,2018-03-21 18:43:16,wc-processing,please delivery after 8pm. Thanks.,64.00,Chiew TuanKee,1260760232@qq.com,Chiew TuanKee  Blk 365A upper serangoon road 06-1052 Singapore  531365 SG
+5084,2018-03-21 21:15:56,wc-processing,,140.00,Shu Jie Tan,shujie5779@gmail.com,Shu Jie Tan  Block 170 bishan street 13 #03-53  Singapore  570170 SG
+5085,2018-03-23 15:09:29,wc-processing,"Speedy Recovery, Javier! You Can Do It! From : your mama's friend, Diana",165.00,Angeline Goh,gstangeline@gmail.com,"Javier Teo  35 Kovan Road, #02-42 Kovan Melody Singapore  545019 SG"
+5086,2018-03-23 17:53:26,wc-processing,,140.00,Sim Yun Wong,wongsimyun@hotmail.com,"Sim Yun Wong  39 Jurong East Avenue 1, #07-04 Parc Osis Singapore  609776 SG"
+5087,2018-03-26 17:17:13,wc-processing,"If no answer, ask security guard to let you up to leave at door, thank you",255.00,Joanne Ong,joanne.siyun.ong@gmail.com,Joanne Ong  11 Arnasalam Chetty Road #11-10 Singapore  239949 SG
+5088,2018-03-26 23:04:32,wc-processing,Pls delivery on Tuesday only,120.00,Teo Bei shi,joanne_teo88@hotmail.com,Teo Bei shi  93a telok blangah st31 #23-157  Singapore  101093 SG
+5089,2018-03-27 18:53:32,wc-processing,,135.00,QIYI LIAO,QIYI@HANDSEL.SG,QIYI LIAO HANDSEL 1 KALLANG JUNCTION VANGUARD CAMPUS #06-01 SINGAPORE  339263 SG
+5090,2018-04-01 01:04:33,wc-processing,Pls call before delivery,135.00,Pearl Tan,pearl@unikleen.com.sg,Pearl Tan Unikleen Chem (S) Pte Ltd 280 Woodlands industrial park e5 #09-24  Singapore  757322 SG
+5091,2018-04-03 19:27:58,wc-processing,Please call or text me before delivery. Thanks,135.00,Joo Hua Ang,toneyang_ang@yahoo.com.sg,Joo Hua Ang  Blk 55 Havelock Road #21-132 Singapore  161055 SG
+5092,2018-04-04 08:52:51,wc-processing,,124.00,Caryn Chai,caryn_8x@yahoo.com.sg,Caryn Chai  Blk 308 Jurong East St 32 #06-262 Singapore  600308 SG
+5093,2018-04-05 19:21:43,wc-processing,Gift wrap If possible thank you,210.00,WENDY Chua,mandolyn5@gmail.com,Kwa Kim Li  10 Bishopsgate Road  Singapore  249982 SG
+5094,2018-04-06 11:29:22,wc-processing,,140.00,Jack Goh,goh.tze.jie@gmail.com,Jack Goh YKK Holding Asia Pte Ltd 152 Beach Road #08-02/04 Gateway East Singapore  189721 SG
+5095,2018-04-07 09:26:46,wc-processing,,140.00,Cindy Luar,cindyluar@gmail.com,"Cindy Luar  202 Kim Seng Road, The Cosmoplitan #16-08 Singapore  239496 SG"
+5096,2018-04-09 19:39:19,wc-processing,,120.00,Julie Wang,juju_ger@yahoo.com.sg,"Julie Wang  Blk 116, Pasir Ris St 11 01-551 SINGAPORE  510116 SG"
+5097,2018-04-10 05:25:48,wc-processing,,270.00,KRISTEN LIM,huiyil@gmail.com,KRISTEN LIM  39 BEDOK RIA CRESCENT  SINGAPORE  489855 SG
+5098,2018-04-10 22:30:35,wc-processing,"Happy Birthday Mrs Tan
+
+Cindy, Swee Sung &amp; Sylvia",190.00,swee sung loh,shanloh31@gmail.com,Sandra Tan M Y Orthopaedic Clinic 6 napier road #06-14 Gleneagles Medical Centre singapore  258499 SG
+5099,2018-04-13 16:15:24,wc-processing,,80.00,kenny choe,kennygs@gmail.com,kenny choe  blk 77 Indus Rd #12-519  singapore  160077 SG
+5100,2018-04-16 15:12:03,wc-processing,,85.00,Christina Tan,nana.xtina@gmail.com,Christina Tan  264 Yishun street 22  Singapore  760264 SG
+5101,2018-04-21 11:36:26,wc-processing,"Please leave it at the entrance if the door is closed, thanks.",210.00,Eunice Tan,euniqeun@gmail.com,"Eunice Tan  3 Kellock Road, Kellock Lodge (Lift 1) #06-03 Singapore  248899 SG"
+5102,2018-04-23 10:26:36,wc-processing,,135.00,Sim Yun Wong,wongsimyun@hotmail.com,Pei Li Wong  305 Yishun Central #05-161 Singapore  760305 SG
+5103,2018-04-23 10:52:27,wc-processing,"This is. a gift.
+Please do not include any receipt
+If you can, please add a note::
+
+Dear Michelle,
+Happy Birthday to you.
+Wishing you good health and happiness.
+Best Wishes, Jessica and Kenny",135.00,Jessica Koh,jesskoh3@gmail.com,Michelle Elizabeth Teo  285 OCEAN DRIVE #06-07 Singapore  098529 SG
+5104,2018-04-23 16:09:24,wc-processing,"Need delivery to be made before noon on Thursday, 26 April as I will be leaving for the airport at 3pm.",205.00,Kim Geck Lim,kimgeck@gmail.com,Kim Geck Lim Nil Blk 110 #08-17 Whampoa Road  Singapore  321110 SG
+5105,2018-04-24 12:22:46,wc-processing,Please give me a call and wait for me outside the office. Will come out to collect.,150.00,Meredith Seet,meredithseetwenxia@gmail.com,Meredith Seet nex - Centre Management Offfice 23 Serangoon Central #04-72/72A Singapore  556083 SG
+5106,2018-04-24 21:51:49,wc-processing,,80.00,Karen Zheng,kaz@travelbeckons.com,Karen Zheng  Blk 327 Tah Ching Road #15-12  Singapore  610327 SG
+5107,2018-04-27 09:14:30,wc-processing,"Deliver on weekday, between 11-130 or after 330pm if possible. Thanks",129.00,Jennifer Lim,eajennifer@gmail.com,Jennifer Lim BUL LIMITED EDITION 32A Keong Saik Road  Singapore  089139 SG
+5108,2018-04-29 21:46:58,wc-processing,"Hi, please put the following message on each box.
+
+Box 1: “To Sufiah, Happy Mother’s Day! Love, Joanna &amp; Syarul”
+
+Box 2: “To Mdm Sariah, Happy Mother’s Day! Love, Syarul &amp; Joanna”",150.00,Joanna Johan,joanna.mdjohan@gmail.com,Joanna Johan TripAdvisor 503B Canberra Link #03-17 Singapore  752503 SG
+5109,2018-04-30 11:37:03,wc-processing,,237.00,Sarah Chong,sarahchong86@gmail.com,"Sarah Chong  708, WOODLANDS DRIVE 70 #06-27 Singapore  730708 SG"
+5110,2018-04-30 14:22:16,wc-processing,"Note to recipient: Hi Tam, enjoy these pretty treats and have lots of rest! Love, Jill",80.00,Jill Seah,jellynaeb@hotmail.com,"Tam Xu  Tampines Street 81, Blk 894A #09-888 Singapore  521894 SG"
+5111,2018-05-02 09:33:47,wc-processing,,129.00,Marilyn Loh,marilyn.loh@anz.com,Marilyn Loh ANZ 10 collyer quay #30-00 Ocean Financial Centre Singapore  049315 SG
+5112,2018-05-02 17:14:18,wc-processing,,270.00,QIYI LIAO,QIYI@HANDSEL.SG,QIYI LIAO HANDSEL 1 KALLANG JUNCTION VANGUARD CAMPUS #06-01 SINGAPORE  339263 SG
+5113,2018-05-02 19:16:35,wc-processing,,162.00,Sharolyn Yap,sharolyn78@yahoo.com.sg,Sharolyn Yap  24 sin Ming walk Bishan Park condo #03-03 Singapore  575572 SG
+5114,2018-05-04 10:59:42,wc-processing,,140.00,Li Wen Teo,teoliwen@gmail.com,Li Wen Teo  116 Serangoon North Ave 1 #11-493  Singapore  600322 SG
+5115,2018-05-04 13:38:01,wc-processing,,205.00,Yi Sin Ngoh,ngohyisin@gmail.com,Yi Sin Ngoh  16 Springside View  Singapore  786248 SG
+5116,2018-05-04 17:30:26,wc-processing,,140.00,Trina Ng,trina92@gmail.com,Trina Ng  30 Olive Road  Singapore  298267 SG
+5117,2018-05-05 22:48:02,wc-processing,Delivery to Laslin Sim,102.00,Felicia Chua,feliciachua@hotmail.com,Felicia Chua  OrangeTee Building 430 Lorong 6 Toa Payoh #12-01 Singapore  319402 SG
+5118,2018-05-06 17:21:19,wc-processing,"If no answer, ask guard to let you up and leave outside door",205.00,Joanne Ong,joanne.siyun.ong@gmail.com,Joanne Ong  11 Arnasalam Chetty Road #11-10 Singapore  239949 SG
+5119,2018-05-07 12:29:51,wc-processing,"Deliver around 8 pm, if possible
+
+Attach note:
+
+Dear Mummy,
+
+Here's to looking young and staying beautiful always!
+
+Love, Paul",85.00,Wayne Ko,ko.wei.en.wayne@gmail.com,Wayne Ko  11 Woodlands Ave 6 #12-03  Singapore  738992 SG
+5120,2018-05-07 12:31:30,wc-processing,,140.00,Kai Xin Lee,kaixin.lee@gmail.com,Kai Xin Lee Wild Advertising & Marketing 1 Chang Charn Rd #05-06 Singapore  159630 SG
+5121,2018-05-07 23:13:22,wc-processing,,140.00,Angeline Fung,angeline.fhy@gmail.com,"Angeline Fung Pico Art International 20 Kallang Avenue , Pico Creative Center Lobby A , Level 4 Singapore  339411 SG"
+5122,2018-05-08 01:10:59,wc-processing,,129.00,Joyce Chen,joyceey@gmail.com,Joyce Chen Miss 545 Choa Chu Kang St 52 #13-12 Singapore  680545 SG
+5123,2018-05-08 03:58:35,wc-processing,Please call 30 mins before arrival. Thank you!,270.00,Karis Oke,karis0055@gmail.com,Karis Oke  18 Jalan Batai  Singapore  578693 SG
+5124,2018-05-08 13:50:07,wc-processing,,135.00,Pik Jio Chai,jiojio5518@hotmail.com,Pik Jio Chai  808C Chai Chee Road #11-74 Singapore  463808 SG
+5125,2018-05-08 15:16:20,wc-processing,,120.00,Sammie Lee,lhshang@gmail.com,Sammie Lee  7 Kim Tian Place #21-65 Singapore  160007 SG
+5126,2018-05-09 00:24:41,wc-processing,,85.00,Dawn Bey,fivepaperbags@gmail.com,Dawn Bey  26 Jalan Jelita  Singapore  278350 SG
+5127,2018-05-09 12:21:22,wc-processing,,140.00,Jeannie Yee,jeannie326@hotmail.com,Jeannie Yee  233 Serangoon Ave 3 #11-24  Singapore  550233 SG
+5128,2018-05-09 15:43:44,wc-processing,,85.00,CHARMAINE SEAH,ELEVENTHOUR@GMAIL.COM,CHARMAINE SEAH  9 MIMOSA ROAD  SINGAPORE  807976 SG
+5129,2018-05-09 17:44:09,wc-processing,"Happy Mother's Day Weilin &amp; Aunty LGH
+
+xoxo,
+Cynthia",80.00,Cynthia Taylor,taylorcynthia0104@gmail.com,Weilin Tan  Bedok North Street 3 Block 525 #12-412 Singapore  460525 SG
+5130,2018-05-09 17:56:00,wc-processing,"Happy Mother's day mommy Choo!
+
+xoxo,
+Cynthia",80.00,Cynthia Taylor,taylorcynthia0104@gmail.com,Chantal Choo  125 Marsiling Rise #07-174 Singapore  730125 SG
+5131,2018-05-09 20:56:57,wc-processing,,80.00,Jia Rong Chew,funkyfrens2110@hotmail.com,Jia Rong Chew  73 Jurong West Central 3 #13-18  .Singapore  648336 SG
+5132,2018-05-09 20:57:15,wc-processing,,150.00,Trudy Zhang,poptsie@gmail.com,Trudy Zhang  40 Lentor Lane  Singapore  789154 SG
+5133,2018-05-09 23:09:57,wc-processing,,80.00,Aylna Neo,aylnaneo@outlook.sg,Aylna Neo  4 mimosa place  Singapore  805529 SG
+5134,2018-05-09 23:39:41,wc-processing,Hopefully this will reach in time for Mother's Day :),80.00,JiaYing Chew,jiaying37@gmail.com,Jasmin Ong  551 SERANGOON NORTH AVE 3 #04-55 Singapore  550551 SG
+5135,2018-05-10 12:31:04,wc-processing,Happy Mother's Day!,145.00,Michelle Chen,mcs411@gmail.com,Elena Chan  Ave 4 Blk 665 Yishun  760665 SG
+5136,2018-05-10 15:23:36,wc-processing,,135.00,Kendra Tan,kendra.tan@gmail.com,Gek Hueh Lang  Bulk 525 Bedok North St 3 #12-412 Singapore  SINGAPORE SG
+5137,2018-05-10 16:07:25,wc-processing,,132.00,Melissa Esping,shoomele@gmail.com,Alice Esping  52 Andrews Terrace  Singapore  757659 SG
+5138,2018-05-10 16:38:35,wc-processing,,120.00,Gwynne Tan,gwynnetan@gmail.com,"Gwynne Tan  11 Tanjong Rhu Road #06-01, The Waterside Singapore  436896 SG"
+5139,2018-05-10 20:37:22,wc-processing,Note: Happy Mother's Day!,202.00,Charmaine Wee,charmaineew@gmail.com,Charmaine Wee  30A Sommerville Road  Singapore  358257 SG
+5140,2018-05-11 14:52:34,wc-processing,,80.00,Susan Ko,kooldeice@gmail.com,Susan Ko  Blk 23 Toa Payoh east #05-231 Singapore  310023 SG
+5141,2018-05-12 01:32:15,wc-processing,,135.00,Tatsunori Kondo,tatsunori0323@gmail.com,Tatsunori Kondo  31 St Thomas walk #26-01 St Thomas Suites Singapore  238141 SG
+5142,2018-05-12 05:45:24,wc-processing,Please assist to deliver by Saturday 12 May. Thanks a lot!!,465.00,Jo Yu,thebigjellybean@hotmail.com,Jo Yu  Block 97A Upper Thomson Road #19-03  Singapore  574327 SG
+5143,2018-05-12 12:10:44,wc-processing,,80.00,Azel Han,tanyixeun@gmail.com,Azel Han  89 Lentor Street  Singapore  786799 SG
+5144,2018-05-12 19:18:15,wc-processing,,135.00,Cynthia Taylor,taylorcynthia0104@gmail.com,Cynthia Taylor  38 Scotts Road The Scotts Tower #04-01 singapore  228240 SG
+5145,2018-05-12 19:44:25,wc-processing,Visited the TANGs booth hoping to purchase this but the flavours were oos so I’d appreciate if I can receive the delivery asap as this is supposed to be a mother’s day present. Thank you.,135.00,Ann Heng,annchzi@gmail.com,Ann Heng  3 Elias Green 15-01 Singapore  519960 SG
+5146,2018-05-12 20:04:47,wc-processing,GIFT FOR MOM,120.00,TAT HSIEN CHUA,TATHSIEN@GMAIL.COM,"YIN PHENG KWOK  8 SIMEI RISE, #03-24  SINGAPORE  528803 SG"
+5147,2018-05-13 15:06:27,wc-processing,,135.00,Yenn Wang,rain_cooltie@hotmail.com,Yenn Wang Merck Pte Ltd 2 science park drive Ascent building #05-01/12 Singapore  118222 SG
+5148,2018-05-15 12:20:05,wc-processing,,80.00,Christabel Lim,smart1christabel@hotmail.com,Christabel Lim  13 Tampines Central 7 #07-05  Singapore  528770 SG
+5149,2018-05-15 22:54:00,wc-processing,"I can't seem to find a contact point to speak to. I am getting this for an elder's 80th birthday present which is happening on the 19th. I appreciate if this can be delivered not later than 18th (Fri), 6pm.
+
+If this is not possible, please let me know. Thank you,",135.00,Terry Peh,terry@gooddogpeople.com,"Terry Peh Good Dog People 35 Kallang Pudding, Tong Lee Building A, #06-04  Singapore  349314 SG"
+5150,2018-05-16 12:11:10,wc-processing,Deliver to build's Lobby,80.00,Benjamin Chin,benjamin_is_good@hotmail.com,Benjamin Chin Trybe Ltd 149 Compassvale Bow Singapore Boys' Hostel Singapore  544690 SG
+5151,2018-05-17 14:58:15,wc-processing,,37.00,Fang Yu Ooi,ooi.fangyu@gmail.com,Fang Yu Ooi  Blk 329 Serangoon Ave 3 #12-370 Singapore  550329 SG
+5152,2018-05-19 14:49:09,wc-processing,,165.00,Tatsunori Kondo,tatsunori0323@gmail.com,Tatsunori Kondo  31 St Thomas walk #26-01 St Thomas Suites Singapore  238141 SG
+5153,2018-05-20 14:50:20,wc-processing,"It's a birthday gift. Please remove invoice and price tags.
+
+Could you also please print a little note
+""Blessed Birthday! Love, Amanda and Aravindh. ""
+
+Thank you. :)",80.00,Amanda Lui,prat_shawty@live.com,Selvarani Sundararaju  21 Hazel Park Terrace #16-12  Singapore  678946 SG
+5154,2018-05-22 16:03:39,wc-processing,&lt;3 get young soon.,135.00,Benjamin Tan,popping_ben@live.com,Ailyn Sue  Blk 212B Compassvale Drive #13-117 Singapore  542212 SG
+5155,2018-05-24 17:07:16,wc-processing,"If no answer, ask guard to let you up. Leave package at #11-10 door.",124.00,Joanne Ong,joanne.siyun.ong@gmail.com,Joanne Ong  11 Arnasalam Chetty Road #11-10 Singapore  239949 SG
+5156,2018-05-25 00:11:28,wc-processing,,145.00,Darryl Ouyang,jacinda@live.com.sg,Jacinda Ng  107 PETIR ROAD FORESQUE RESIDENCES APT 04-17  SINGAPORE  678275 SG
+5157,2018-05-25 07:33:58,wc-processing,,348.00,Melisa Tan,ollysutanio84@gmail.com,Melisa Tan  1 Goldhill View  Singapore  308823 SG
+5158,2018-05-25 17:35:30,wc-processing,"It is an office address, hence please deliver on weekday (except 29/5/18).",135.00,lena chew,lenachew@hotmail.com,lena chew  215 henderson road 01-07  Singapore  159554 SG
+5159,2018-05-27 15:27:51,wc-processing,"Extra paper bags please, thank you! Delivery: If no answer, ask guard to let you up and please leave at #11-10 door. Thank you.",108.00,Joanne Ong,joanne.siyun.ong@gmail.com,Joanne Ong  11 Arnasalam Chetty Road #11-10 Singapore  239949 SG
+5160,2018-05-28 08:55:55,wc-processing,Birthday present for a good friend.,190.00,Li Hoon Lim,lihoon.lim@gmail.com,Li Hoon Lim  187 Bishan St 13 #08-477 Singapore  570187 SG
+5161,2018-05-28 10:29:49,wc-processing,pls deliver after 5pm,135.00,Edna Lee,mangoz76@gmail.com,"Edna Lee  481 Jurong West Street 41, #07-200, Singapore 640481  Singapore  640481 SG"
+5162,2018-05-29 12:55:29,wc-processing,please sms or give a call before the delivery. To Olivia Kim (+65-9125-7892),80.00,Jua Kim,jenniferjkim@naver.com,Olivia Kim  36 The Inglewood  Singapore  575065 SG
+5163,2018-05-29 13:10:39,wc-processing,,64.00,Ming Zhen Yeow,m.zhens@gmail.com,Ming Zhen Yeow  Blk 308B Ang Mo Kio Ave 1 #28-403 Singapore 562308 Singapore  562308 SG
+5164,2018-06-05 19:16:39,wc-processing,"Please include a note: “Get well soon! Love, Sharon, Jamin, Lucas &amp; Baby Cora",135.00,Sharon Chong,sharon.ccy@gmail.com,Nancy Ong Singapore General Hospital Outram road Ward 55 Room 32 Singapore  169608 SG
+5165,2018-06-06 12:43:44,wc-processing,"Please deliver to Winnie Wong @ 73 Gerald Drive, #01-15 S(797703)",135.00,Gwen Chng,gwenchng@gmail.com,Gwen Chng  Black 230H Tampines St 21 #06-685 Block 230H Tampines Street 21 Singapore  522230 SG
+5166,2018-06-12 10:37:03,wc-processing,"Hey Baby Mama,
+
+Congratulations on your little bundle of joy, wishing you a speedy recovery and all the love in the world.
+
+Love,
+#lobehoes",135.00,Tammi Lin,tammilintianni@gmail.com,"Tania Chan  48 Ewe Boon Road #14-02, Cliften Singapore  259342 SG"
+5167,2018-06-12 17:49:47,wc-processing,,135.00,Corrine Lee,corrine.lee@hsl.com.sg,Corrine Lee HSL Constructor Pte Ltd 42D Penjuru Road Level 5 Singapore  609162 SG
+5168,2018-06-17 01:05:55,wc-processing,,108.00,Ming Zhen Yeow,m.zhens@gmail.com,Ming Zhen Yeow  Blk 308B Ang Mo Kio Ave 1 #28-403 Singapore 562308 Singapore  562308 SG
+5169,2018-06-17 17:14:50,wc-processing,"Can we a note &amp; Instructions on how to consume it?
+
+Note message as below:
+
+Happy Birthday Aunty Jean! 生日快乐！
+From: Xue Kai &amp; Yah Huei :)",80.00,Christina Loi,christinaloi@hotmail.com,Aunty Jean  191 Bukit Batok West Ave 6 #16-45 Singapore  650191 SG
+5170,2018-06-18 23:07:37,wc-processing,,80.00,Vanessa Yee,vanessayeekv@gmail.com,Jansie Tan  5A Lengkong Dua  singapore  417679 SG
+4309,2017-09-30 21:43:15,wc-refunded,,21.00,Eugene Ling,hello@eugeneling.com,Eugene Ling  blk 472 sembawang drive #15-413  Singapore  750472 SG
+5171,2018-06-22 10:38:39,wc-processing,,100.00,janice hong,hong.janis@gmail.com,janice hong  35 bangkit road #03-03 Chestervale Singapore  679975 SG
+5172,2018-06-28 01:52:51,wc-processing,"Deliver on Sunday, TQ",135.00,Ailyn Sue,popping_ben@live.com,Ailyn Sue  Blk 212b Compassvale drive #13-117  Singapore  s542212 SG
+5173,2018-06-28 19:55:14,wc-processing,,135.00,Caren Yeo,karis0055@gmail.com,Caren Yeo  19 Shelford Road #02-31 Singapore  288408 SG
+5174,2018-07-04 15:46:44,wc-processing,,145.00,Celine Tan,celine@ate.bz,"Celine Tan The Ate Group 391B Orchard Road, Ngee Ann City Tower B #22-01 Singapore  238874 SG"
+5175,2018-07-08 19:00:35,wc-processing,"If no answer, please leave outside door and SMS to inform, thank you",140.00,Joanne Ong,joanne.siyun.ong@gmail.com,Joanne Ong  11 Arnasalam Chetty Road #11-10 Singapore  239949 SG
+5176,2018-07-16 09:08:40,wc-processing,Do not require the box packaging. please bubble wrap if possible as this is be brought overseas. thanks.,135.00,Ling Yin Tan,tlingyin@gmail.com,"Ling Yin Tan  6 Woodleigh Close, #11-12 Singapore  357902 SG"
+5177,2018-07-17 23:11:30,wc-processing,"Note to Rainie : Sorry we couldn't visit you and baby Estee at the hospital. We still loveeeee you! SXL, SPR and LXE",80.00,Sheryl Soh,sherylsoh@hotmail.com,Rainie Sim  Blk 196B Boon Lay Drive #03-133 Singapore  642196 SG
+5178,2018-07-18 16:32:26,wc-processing,Pls notify preferably 1 hour prior to delivery - Call 62856064 / 97534046,80.00,Keri Teo,zhlow@yahoo.com,Jennifer Tan  24D LOR HOW SUN  Singapore  536525 SG
+5179,2018-08-05 21:23:18,wc-processing,10 individual gifts. Pls provide 10 packaging if available.,270.00,Su rong Fam,surong.fam@gmail.com,Su rong Fam  Blk 307C Ang MO Kio ave 1 #21-453  Singapore  563307 SG
+5180,2018-08-06 02:52:52,wc-processing,"It's a strata house inside the condo, so there's no unit number. Thank you.",135.00,Kim Ee Lim,kimpassionlim688@gmail.com,Kim Ee Lim  West Coast crescent. The vision. No. 63  Singapore  128057 SG
+5181,2018-08-07 10:32:27,wc-processing,,190.00,Adeline Teng,adeltph@hotmail.com,Adeline Teng  191 Westwood Ave The Woods  Singapore  648268 SG
+5182,2018-08-08 16:40:05,wc-processing,,108.00,Ming Zhen Yeow,m.zhens@gmail.com,Ming Zhen Yeow  Blk 308B Ang Mo Kio Ave 1 #28-403 Singapore 562308 Singapore  562308 SG
+5183,2018-08-09 21:21:40,wc-processing,,80.00,Gerald Ng,Geldorave@gmail.com,"Gerald Ng  19 Fernvale Lane, #10-21  Singapore  797499 SG"
+5185,2018-08-13 22:58:43,wc-processing,,205.00,Jaclyn CHow,jaccies@gmail.com,Jaclyn CHow  656 Jalan tenaga #08-104 Singapore  410656 SG
+5186,2018-08-20 16:25:32,wc-processing,,135.00,Xiaohong Chen,x3hong@gmail.com,Xiaohong Chen  607 Senja Road #09-04 Singapore  670607 SG
+5187,2018-08-23 16:38:16,wc-processing,,2450.00,Jane Hooy,janehooy@gmail.com,Jane Hooy  11 Astrid Hill  Singapore  269935 SG
+5188,2018-08-27 01:34:16,wc-processing,This is a gift. please gift package it,80.00,Christine Chan,christinechansk@gmail.com,"Adeline Chi  Blk 211, Bukit Batok Street 21 Unit #13-254 Singapore  650211 SG"
+5189,2018-08-27 11:09:33,wc-processing,,135.00,Goh Arthur,oli_voo@yahoo.com,"Goh Arthur  #04-325, Apt 659A jurong west st65  641659 SG"
+5190,2018-08-28 15:21:47,wc-processing,Possible to deliver by 31 Sept? Giving as a gift on 1st Sept. Thank you!!,135.00,Han Yu Goh,coldjade.hanyu@gmail.com,Han Yu Goh  731 Jurong West St72 #02-23 Singapore  640731 SG
+4649,2017-10-20 07:09:00,wc-refunded,,70.00,Nick T.,thisisnickt@gmail.com,Nick T. COM3 Singapore 21 Hazel Park Terrace #19-01 Singapore  678946 SG
+5049,2018-02-07 15:15:41,wc-refunded,,37.00,Eddy Susanto,eddy.susanto@gmail.com,Eddy Susanto  16 Collyer Quay #03-00 Singapore  049318 SG
+5050,2018-02-07 15:23:32,wc-refunded,,37.00,Eddy Susanto,eddy.susanto@gmail.com,Eddy Susanto PDG 16 Collyer Quay #03-00 Singapore  049318 SG
+5079,2018-03-14 02:03:43,wc-refunded,,37.00,Vallence Huang,vallence@elevatesg.com,Vallence Huang  blk 543 jelapand rd #09-64  singapore  670543 SG
